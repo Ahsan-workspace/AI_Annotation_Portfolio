@@ -4,7 +4,7 @@ Welcome to my public portfolio. This repository contains physical datasets I hav
 
 ## 📂 Projects Included
 
-* **Phase 1:** Tabular Data Cleaning & Integrity
+* **Phase 1:** Tabular Data Cleaning & Integrity Ussing Python(pandas)
 * **Phase 2:** Privacy & PII Redaction
 * **Phase 3:** NLP, Intent Mapping & NER
 * **Phase 4:** Computer Vision & Object Tracking
