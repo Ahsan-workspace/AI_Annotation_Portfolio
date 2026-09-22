@@ -1,0 +1,1001 @@
+Customer_ID,Full_Name,Contact_Email,Phone_Number,Signup_Date,Country,Subscription_Tier,Total_Spend_USD,Account_Status
+CUST-1217,Katherine Smith,charlesnathan@example.com,89497284639208,2026-06-03,Antigua and Barbuda,Basic,3757.67,Active
+CUST-1795,Richard Stuart,ballelizabeth@example.com,49877682996872,2024-04-20,Congo,Basic,964.67,Active
+CUST-1868,Alex Miller,wibarra@example.com,7894826041809,2026-06-05,Slovenia,Basic,2701.4,Active
+CUST-1472,Jacqueline Fleming,rbaker@example.org,13035802146296,2023-08-31,Kyrgyz Republic,Enterprise,1103.06,Pending
+CUST-1551,Matthew Ruiz,russell36@example.net,3749883607658,2022-11-04,Anguilla,Pro,1585.65,Pending
+CUST-1249,Erik Jacobs,ndaniels@example.net,4984324826,2023-04-24,Moldova,Enterprise,4406.53,Pending
+CUST-1446,Bradley Patterson,jessicalopez@example.com,001514336371892392,2022-05-20,Argentina,Basic,351.09,Inactive
+CUST-1137,Andrea Oneal,hatfieldsarah@example.org,59625827109104,2026-05-03,Yemen,Pro,838.03,Pending
+CUST-1320,Jennifer Mills,wilsonralph@example.net,0018123153539,2022-11-20,Jamaica,Pro,318.31,Pending
+CUST-1120,James Hunter,ystephens@example.com,0017898113529096,2022-04-02,Bolivia,Basic,506.88,Inactive
+CUST-1468,Emily Myers,terri15@example.com,00148198209679042,2022-02-11,Niue,Pro,1800.31,Pending
+CUST-1036,Michele Gibson,sandrafrench@example.net,0013362183242,2022-07-21,Gambia,Pro,4494.22,Inactive
+CUST-1433,Marissa Miller,melissa01@example.org,445982603408487,2025-03-13,Mali,Pro,3883.12,Pending
+CUST-1577,Edward Johnson,howardbenjamin@example.net,53291812276457,2021-12-04,Greece,Basic,4371.36,Active
+CUST-1584,Thomas Thompson,No Email Provided,5164966630,2024-10-08,Macao,Pro,4428.92,Active
+CUST-1514,Justin Smith,austin97@example.org,8273740258835,2022-08-05,Canada,Enterprise,439.3,Inactive
+CUST-1010,Jessica Callahan,williamsyvette@example.org,4328677360,2021-09-24,Iceland,Pro,819.62,Inactive
+CUST-1840,Ashley Thomas,bethany36@example.com,18825089348,2024-10-16,Turkmenistan,Basic,1414.47,Pending
+CUST-1959,Audrey Hull,gomezbrittney@example.net,18388457202,2023-07-26,Zimbabwe,Pro,3906.89,Pending
+CUST-1639,Kim Long,justintaylor@example.org,86666617071587,2024-03-18,Solomon Islands,Pro,2589.78,Pending
+CUST-1722,Jennifer Lewis,satkinson@example.org,12254295961111,2024-06-04,Lithuania,Basic,1999.82,Inactive
+CUST-1138,Katie Fuller,zhenderson@example.org,178889241418328,2024-08-27,Serbia,Basic,1943.58,Active
+CUST-1743,Kenneth Adams,mannjonathan@example.net,40126934292913,2022-11-16,Egypt,Basic,994.38,Inactive
+CUST-1917,James Whitaker,plin@example.org,151860467413075,2025-08-01,Palau,Enterprise,1253.88,Pending
+CUST-1640,Patricia Hale,lopezchristopher@example.net,00129882508004635,2025-06-01,Malta,Enterprise,841.93,Active
+CUST-1193,Martin Sellers,susanfleming@example.com,21664840858877,2026-03-20,Congo,Basic,1394.99,Inactive
+CUST-1292,Devin Cole,sharonbishop@example.org,13273914560833,2024-10-25,Tokelau,Pro,3549.43,Pending
+CUST-1841,William Foster,vickimullins@example.com,15917609114131,2025-01-10,Netherlands Antilles,Basic,209.48,Pending
+CUST-1850,Mark Townsend,jackie01@example.com,145969530062212,2022-08-17,Serbia,Enterprise,1628.57,Pending
+CUST-1429,Meghan Hinton,nicholasmcgrath@example.net,7018572018,2026-07-28,Niue,Basic,3944.63,Active
+CUST-1744,Monique Sutton,tammyhill@example.org,0019034106153,2022-06-16,Oman,Pro,2122.96,Inactive
+CUST-1702,Katherine Rodriguez,hhughes@example.org,6154001418,2025-08-23,Uzbekistan,Basic,1486.55,Inactive
+CUST-1294,Casey Floyd,erobertson@example.org,00157989563531531,2026-01-27,Honduras,Pro,3949.75,Pending
+CUST-1934,David Hayes,sgordon@example.net,1368900852946902,2023-11-30,France,Basic,2841.59,Pending
+CUST-1149,Matthew Lamb,steinmaria@example.com,2078029667,2025-02-20,China,Pro,3050.73,Pending
+CUST-1693,Joseph Benson,barnesarthur@example.com,15614114576,2022-04-30,Central African Republic,Pro,1522.3,Active
+CUST-1004,Maria Thomas,johnhoffman@example.com,00149649653287101,2025-09-07,Jamaica,Basic,197.5,Active
+CUST-1815,Kimberly Thompson,bakerangela@example.net,1878288975358523,2025-09-19,Uzbekistan,Enterprise,1050.68,Pending
+CUST-1676,Michael Terry Md,gonzalezbarry@example.org,0018705519582,2022-06-26,Albania,Basic,2614.61,Inactive
+CUST-1144,Tiffany Smith,usweeney@example.com,3382367024,2026-05-01,Ukraine,Pro,3413.61,Pending
+CUST-1251,Michael Woods,xjoseph@example.org,57752233060463,2022-01-19,Vanuatu,Basic,1244.71,Inactive
+CUST-1383,Jamie Wu,pattonbryan@example.com,6498611080,2023-09-24,Niger,Pro,1408.68,Pending
+CUST-1230,Sandra Martinez,paulproctor@example.org,00130367183764520,2024-02-17,French Southern Territories,Basic,554.41,Inactive
+CUST-1378,Douglas Morse,james94@example.net,2375504793,2026-08-24,Northern Mariana Islands,Enterprise,1287.99,Inactive
+CUST-1974,Veronica Simmons,No Email Provided,16158278730,2022-08-23,Poland,Basic,2421.1,Active
+CUST-1969,Mr. James Weaver Dds,nathan39@example.com,521338350712455,2022-07-21,Switzerland,Basic,1558.06,Inactive
+CUST-1204,Mitchell Wilson,robertrivera@example.org,47743926030299,2024-11-14,Armenia,Enterprise,4494.17,Inactive
+CUST-1526,Joshua Garcia,rachel97@example.com,7324834831,2021-11-25,Dominica,Pro,4328.02,Pending
+CUST-1956,Darren Anthony,nicolemason@example.com,1333576185186267,2023-11-23,Gambia,Basic,1801.88,Active
+CUST-1767,Sydney Johnson,jessicarichardson@example.net,0016882245279050,2026-09-09,French Guiana,Pro,4668.47,Pending
+CUST-1500,Jennifer Long,jessicasuarez@example.com,93263549401289,2025-12-26,Portugal,Pro,1674.21,Active
+CUST-1054,Jason Wilson,alvarezkimberly@example.net,0019172839084,2022-01-10,Lesotho,Basic,603.75,Inactive
+CUST-1118,Ryan James,scott69@example.org,75983752654793,2023-02-15,Solomon Islands,Pro,1057.81,Pending
+CUST-1362,Melody Griffin,paigeweber@example.net,167556341085628,2022-03-09,Micronesia,Basic,3746.49,Inactive
+CUST-1301,Tina Clark,lukehurst@example.net,1664901557788178,2024-10-29,South Georgia and the South Sandwich Islands,Enterprise,1555.25,Inactive
+CUST-1699,Grant Black Dds,crystal44@example.net,635853935435864,2025-01-26,Comoros,Enterprise,2830.17,Inactive
+CUST-1276,Larry Lane,jenniferadams@example.net,0019503097519,2022-06-07,Saint Martin,Basic,4119.47,Inactive
+CUST-1483,Christina Davis,xsmith@example.net,9097819602,2022-08-27,Palau,Basic,752.28,Pending
+CUST-1647,David Rice,douglasbrandt@example.org,7162880925,2022-06-10,Bosnia and Herzegovina,Pro,3827.27,Pending
+CUST-1141,Scott Jackson,jonathangarcia@example.net,1213880003075622,2022-11-05,Egypt,Basic,167.14,Active
+CUST-1128,Debra Daniels,amber07@example.net,3619340745,2026-01-18,British Indian Ocean Territory (Chagos Archipelago),Basic,257.05,Inactive
+CUST-1212,Regina Mitchell,bowerswilliam@example.net,6928053021,2023-06-28,Indonesia,Pro,949.56,Inactive
+CUST-1119,Brian Elliott,erinpierce@example.net,8378416724342,2022-02-03,Netherlands Antilles,Pro,2551.77,Inactive
+CUST-1350,Clarence Long,butlerjanet@example.com,0013776945232,2026-01-30,Botswana,Basic,2536.34,Pending
+CUST-1818,Anthony Hernandez,darrellmoore@example.net,0018763720191116,2022-05-15,Cocos (Keeling) Islands,Enterprise,2936.58,Active
+CUST-1237,Neil Schmidt,jamessandoval@example.net,182878619576122,2025-01-04,Martinique,Enterprise,4463.3,Inactive
+CUST-1353,Tracey Ruiz,mrichards@example.com,0016602501667,2024-02-28,Libyan Arab Jamahiriya,Basic,3626.1,Inactive
+CUST-1001,Connie Lawrence,blakeerik@example.com,942335116155940,2026-08-03,Honduras,Pro,1262.21,Active
+CUST-1148,Kristi Pierce,murraylinda@example.org,6003323651,2021-10-30,Bahrain,Pro,3656.3,Inactive
+CUST-1334,David Ramirez,michaelbaldwin@example.com,7903034864,2024-05-25,Dominica,Basic,1948.75,Pending
+CUST-1768,Thomas Clark,james84@example.net,216532111978718,2022-12-05,Bermuda,Pro,729.5,Pending
+CUST-1973,Laura Gonzalez,No Email Provided,537588033183611,2025-11-07,Mali,Pro,1637.29,Pending
+CUST-1173,William Edwards,smithjoshua@example.org,0018279129666,2023-08-22,Argentina,Basic,170.91,Active
+CUST-1158,John Shields,franciscojones@example.org,70594115262181,2025-03-31,Jersey,Enterprise,1580.96,Inactive
+CUST-1132,Ronald Morgan,ashleewashington@example.com,1600417012770632,2026-02-04,Turkey,Enterprise,3759.91,Active
+CUST-1844,Lydia Payne,clinesteven@example.net,5147174681,2024-11-01,Uruguay,Enterprise,216.2,Pending
+CUST-1817,Monica Matthews,elizabeth14@example.org,94833093096713,2024-10-07,Brazil,Pro,625.39,Active
+CUST-1022,Patricia Gibson,jennifercruz@example.com,2205163287,2026-04-24,British Virgin Islands,Basic,3367.37,Pending
+CUST-1544,Morgan Campbell,cynthiadavis@example.net,00183056178932064,2024-11-29,Liberia,Pro,3883.6,Pending
+CUST-1619,Julie Taylor,aaron48@example.net,43989106227236,2023-09-05,Congo,Basic,4434.66,Inactive
+CUST-1985,Michele Sims,theresa61@example.com,174773156639792,2025-09-03,Brazil,Enterprise,2521.55,Pending
+CUST-1441,Sierra Mills,gregoryrichardson@example.org,650967625153814,2023-11-03,Croatia,Basic,2407.42,Inactive
+CUST-1430,Danielle Wilson,sburns@example.net,3613764750,2022-02-18,Liechtenstein,Basic,3945.54,Active
+CUST-1095,Ryan Peck,osbornrandy@example.com,6409049915,2026-09-02,Mayotte,Basic,2941.68,Pending
+CUST-1384,Crystal Greene,chavezsteven@example.com,12913507859311,2024-09-08,Tajikistan,Enterprise,3902.64,Active
+CUST-1341,Kyle Jones,williamssarah@example.com,4992004896465,2024-08-16,Eritrea,Basic,2260.41,Inactive
+CUST-1530,David Delgado,martinezashley@example.com,5278707070578,2022-01-06,Wallis and Futuna,Enterprise,417.24,Inactive
+CUST-1253,Danielle Medina,grantzachary@example.net,8346764472,2024-10-15,Austria,Enterprise,2406.66,Pending
+CUST-1060,Lawrence Perry,kariwilson@example.com,2492784036,2022-09-29,Yemen,Basic,1362.03,Pending
+CUST-1714,Sean Gibbs,deborahturner@example.org,7035747677,2024-01-15,Israel,Pro,712.98,Inactive
+CUST-1706,Lucas James,jamie76@example.net,850478967935219,2025-08-30,Cote d'Ivoire,Pro,4980.05,Inactive
+CUST-1673,Ronnie Brooks,fullerdebbie@example.com,2594045990,2024-03-16,Vanuatu,Enterprise,1755.35,Pending
+CUST-1789,Christopher Davis,lshannon@example.net,7139486298,2025-08-24,Poland,Pro,3259.01,Pending
+CUST-1517,Christopher Rodriguez,ogray@example.net,14338477433,2025-10-16,Sudan,Basic,2676.49,Active
+CUST-1385,Kenneth Walsh,michael79@example.com,7326002496,2024-08-22,Mauritius,Enterprise,3738.6,Inactive
+CUST-1559,Erica Huang,taylorlindsay@example.com,1775348138666754,2026-02-20,Tajikistan,Pro,140.24,Inactive
+CUST-1555,Jennifer Phillips,uforbes@example.net,7856959224839,2024-01-31,Cote d'Ivoire,Pro,4075.26,Pending
+CUST-1471,John Scott,isantos@example.org,0019707546692,2024-04-14,Nigeria,Pro,1790.65,Pending
+CUST-1313,Taylor Palmer,kathygeorge@example.org,17554445189,2021-10-14,Maldives,Pro,1639.24,Active
+CUST-1227,Christopher Mclaughlin,oclayton@example.com,8635894484,2025-12-28,Cocos (Keeling) Islands,Pro,2900.19,Inactive
+CUST-1435,Angela Scott,ksantos@example.com,4148628314359,2025-10-31,Germany,Basic,2724.07,Active
+CUST-1641,Katie Maldonado,lozanocorey@example.org,2518373990,2022-10-02,Portugal,Basic,4250.91,Pending
+CUST-1921,Benjamin Harris,karenjordan@example.net,87899760987312,2026-03-10,Djibouti,Pro,2785.87,Active
+CUST-1123,Crystal Sullivan,jacobsandoval@example.com,5936796603,2025-06-26,Sudan,Basic,3719.09,Pending
+CUST-1962,Mr. Michael Jefferson Iv,charles83@example.net,341867347853698,2023-03-10,Myanmar,Pro,889.03,Inactive
+CUST-1056,Michael Farrell,russellbeasley@example.com,376361565452711,2023-11-19,Samoa,Enterprise,4737.4,Active
+CUST-1774,Ryan Mcmillan,nancybrown@example.org,3664910627153,2025-07-24,Equatorial Guinea,Basic,4824.37,Active
+CUST-1653,Sean Anderson,wstewart@example.net,501611000515532,2025-12-04,Guyana,Enterprise,2259.05,Pending
+CUST-1159,Carmen Preston,brianrivera@example.org,288744431069872,2021-09-27,Benin,Pro,2041.88,Inactive
+CUST-1306,Jonathan Thomas,jreilly@example.org,00198825474929751,2022-02-06,Micronesia,Enterprise,4188.0,Pending
+CUST-1658,Morgan Smith,egonzalez@example.com,50496558665254,2023-02-17,Belize,Pro,3355.81,Pending
+CUST-1197,Daniel Figueroa,jason82@example.org,9393431290,2023-03-06,Bangladesh,Pro,1687.86,Inactive
+CUST-1602,Andrea Hartman,susan57@example.net,6256737553,2024-09-27,Venezuela,Basic,3093.31,Active
+CUST-1534,Kayla Norman,shelby69@example.org,1226911398986818,2025-01-07,Mali,Pro,2922.63,Pending
+CUST-1825,Brian Copeland,steven01@example.org,15013810306,2023-12-20,Falkland Islands (Malvinas),Basic,274.18,Inactive
+CUST-1061,Chad Scott,david76@example.org,2688388516,2021-10-25,Uruguay,Pro,4823.6,Pending
+CUST-1830,John Mcdonald,benjamin49@example.org,13817949053,2025-08-24,Armenia,Enterprise,4820.72,Inactive
+CUST-1601,Jessica Mitchell,No Email Provided,662629493817359,2025-03-03,Burundi,Enterprise,760.71,Inactive
+CUST-1854,Paul Williams,terri25@example.com,824621838545400,2023-04-02,Heard Island and McDonald Islands,Pro,351.74,Pending
+CUST-1388,Erin Singh,richardmckenzie@example.org,7012508124739,2026-07-08,Congo,Pro,3404.93,Pending
+CUST-1157,Meagan Daniel,sean43@example.org,0019158410067626,2023-06-24,Honduras,Basic,3612.78,Inactive
+CUST-1981,Laura Lynch,fflowers@example.com,490809921779055,2026-05-07,Myanmar,Basic,3424.48,Pending
+CUST-1139,Melanie Jones,No Email Provided,4163179904,2021-10-14,Burundi,Pro,1151.05,Inactive
+CUST-1201,Donna Marshall,sanderswayne@example.net,4929827229,2026-06-02,Armenia,Pro,2411.05,Inactive
+CUST-1659,Tamara Miller,michelle10@example.org,001713312512931100,2022-07-03,Niue,Basic,2772.49,Inactive
+CUST-1804,Rebecca Cole,kramirez@example.org,45845485965594,2023-03-31,Nicaragua,Pro,3466.94,Pending
+CUST-1737,William Peck,No Email Provided,9219988192,2024-06-28,Micronesia,Pro,1364.38,Pending
+CUST-1738,Gina Weber,hartmandanielle@example.org,78684010424624,2026-08-18,Marshall Islands,Enterprise,2909.29,Pending
+CUST-1552,David Wood,daymartin@example.net,4188237931,2024-10-21,Lebanon,Enterprise,3327.57,Active
+CUST-1884,Sherry Patterson,caleb84@example.net,17134599285535,2021-12-13,Iceland,Pro,3820.06,Inactive
+CUST-1162,Michelle Shaw,davidtodd@example.org,4336206163,2023-04-28,Saint Lucia,Enterprise,4518.89,Pending
+CUST-1545,Tiffany Humphrey,nancycontreras@example.com,176955874131467,2025-01-13,Brazil,Enterprise,309.21,Pending
+CUST-1828,Jillian Warner,tyler31@example.net,8538396274,2023-11-28,Canada,Basic,1471.1,Active
+CUST-1423,Cynthia Lewis,garciavictoria@example.org,9563434712,2025-09-13,Grenada,Pro,541.81,Pending
+CUST-1299,Shelly Sullivan,No Email Provided,0017582046498931,2024-04-18,United States of America,Pro,2995.47,Pending
+CUST-1858,Taylor Kirby,vanessa44@example.com,1554946083851799,2025-03-31,Micronesia,Enterprise,1936.72,Pending
+CUST-1632,Jerry Santos,thomas21@example.net,9146940976263,2024-05-31,Peru,Pro,1567.15,Pending
+CUST-1698,Jennifer Hoffman,kendrawilliams@example.com,44795489547876,2023-05-29,Puerto Rico,Pro,697.29,Inactive
+CUST-1991,Kelly Brown,eharris@example.com,155823336477041,2024-09-30,Nigeria,Pro,2741.04,Inactive
+CUST-1570,Melissa Warren,davidcook@example.org,4425576270,2026-02-20,Gabon,Pro,3072.45,Pending
+CUST-1364,Jody Bird,michaelmitchell@example.net,0015267831589,2023-12-30,Cameroon,Basic,2246.21,Pending
+CUST-1971,Kristen Jackson,george52@example.net,216218575917105,2023-07-16,Netherlands Antilles,Pro,2229.1,Inactive
+CUST-1947,Jacob Hardy,No Email Provided,463802955963637,2022-08-01,Nigeria,Enterprise,1512.13,Active
+CUST-1870,Teresa Graham,franciscomorrison@example.com,789917045421854,2025-11-21,Aruba,Enterprise,3034.46,Active
+CUST-1683,Michael Patrick,russomary@example.com,19739045195,2024-06-11,Holy See (Vatican City State),Enterprise,884.75,Pending
+CUST-1777,Michelle Chavez,brandi26@example.net,0013996699648997,2022-06-13,Slovenia,Pro,1462.81,Active
+CUST-1508,Elizabeth Miller,ygardner@example.com,8289758575,2023-10-29,Isle of Man,Enterprise,2117.59,Active
+CUST-1697,Jeffrey Harrell,qjohnson@example.net,6679932798623,2025-08-03,Jersey,Enterprise,1630.62,Inactive
+CUST-1964,Amy Larsen,josephbass@example.com,513908898305748,2023-01-12,Timor-Leste,Basic,877.68,Inactive
+CUST-1531,Steven Arnold,alexanderjonathan@example.com,9727322903102,2021-12-06,Saint Barthelemy,Pro,236.16,Inactive
+CUST-1940,Kimberly Knapp,kristinaharrison@example.org,681422590956684,2026-06-17,Libyan Arab Jamahiriya,Basic,4201.44,Inactive
+CUST-1048,Theodore Murphy,ithompson@example.net,4885424745171,2026-01-09,Saint Kitts and Nevis,Enterprise,3821.71,Pending
+CUST-1715,Danielle Thomas,phillipsbrian@example.com,76159458870715,2023-04-10,Madagascar,Enterprise,1860.6,Inactive
+CUST-1300,Stacy Rodriguez,steven05@example.com,3819832538,2025-05-30,Sao Tome and Principe,Pro,2223.81,Inactive
+CUST-1039,Matthew Morales Dds,gibsonleonard@example.com,7689087603,2024-11-06,Senegal,Basic,806.56,Active
+CUST-1310,Justin Page,jamescollier@example.com,15702494787,2025-09-05,Cape Verde,Pro,948.37,Pending
+CUST-1770,Yolanda Johnson,cookrobert@example.net,6986036577,2025-11-02,Nepal,Basic,3365.68,Pending
+CUST-1925,Tammy Dyer,barnesjames@example.com,804650063553730,2024-07-19,Nicaragua,Basic,4479.22,Active
+CUST-1436,Jessica Johnson Dds,nelsonamanda@example.net,15616515542,2021-10-09,Honduras,Basic,3322.24,Active
+CUST-1445,Mrs. Katherine Simpson,markduran@example.com,862211022580305,2023-11-23,French Guiana,Enterprise,1543.07,Pending
+CUST-1580,Connie Carr,omatthews@example.net,586478055557277,2025-02-01,Equatorial Guinea,Enterprise,4263.27,Inactive
+CUST-1261,Michelle Krause,wilsonsteven@example.org,00163936605583034,2023-04-06,Madagascar,Basic,647.25,Active
+CUST-1370,Barbara Mayer,No Email Provided,2979189569,2026-01-12,Angola,Basic,440.89,Inactive
+CUST-1582,Krystal Perry,potterjustin@example.net,63648269116331,2026-01-18,Seychelles,Pro,4531.27,Active
+CUST-1458,Michael Burton,smithbradley@example.net,61856203036625,2026-05-01,Poland,Pro,4446.05,Inactive
+CUST-1485,Johnny Ward,peterhenry@example.org,217313665722402,2026-08-08,Guatemala,Basic,1912.16,Inactive
+CUST-1491,Dr. Jason Martinez Jr.,brittany39@example.org,20930742608805,2024-01-27,Switzerland,Pro,3326.6,Inactive
+CUST-1846,Erik Keller,martinezdennis@example.net,1220575360511716,2025-11-20,Mauritania,Basic,3715.68,Inactive
+CUST-1315,Gregory Vazquez,lisapreston@example.net,352840132234232,2025-03-06,Slovenia,Pro,1476.68,Inactive
+CUST-1403,Kathy Chan,qhayes@example.org,307401765636004,2023-05-11,San Marino,Basic,1359.07,Active
+CUST-1234,Jordan Parsons,bgross@example.net,6937518638782,2023-10-09,Gibraltar,Basic,2554.51,Inactive
+CUST-1247,Charlotte Mason,tcastro@example.org,7387457620,2023-07-02,Gabon,Basic,2463.37,Inactive
+CUST-1179,Christopher Williams,michael56@example.net,6103022557,2023-08-02,Guam,Basic,3903.18,Active
+CUST-1612,John Lucero,mtaylor@example.net,3479742585,2024-03-09,Switzerland,Enterprise,3795.56,Active
+CUST-1616,Pamela Baker,ronald08@example.org,6379118425,2023-11-26,Wallis and Futuna,Enterprise,952.28,Active
+CUST-1713,Scott Martinez,clarkcarol@example.com,51986664505730,2025-08-07,Sao Tome and Principe,Enterprise,90.48,Active
+CUST-1811,Richard Chandler,No Email Provided,3228999362,2025-09-20,Palestinian Territory,Enterprise,4372.02,Active
+CUST-1349,Sarah Mills,ashley81@example.org,218366179454918,2025-06-04,Kyrgyz Republic,Basic,2501.88,Active
+CUST-1399,David Keller,gibsonmiguel@example.org,9563621286,2023-09-01,United Kingdom,Basic,2368.24,Active
+CUST-1769,Christina Robinson,oschneider@example.org,201219875617868,2026-04-13,Cote d'Ivoire,Enterprise,2954.81,Active
+CUST-1757,Crystal Graves,castroralph@example.net,0012203828323,2022-12-06,Micronesia,Pro,3539.26,Pending
+CUST-1031,Kyle Beard,blackjames@example.org,00156768377701436,2025-01-16,Heard Island and McDonald Islands,Enterprise,4388.02,Inactive
+CUST-1321,Diana Reeves,katelyn65@example.com,1496278427114773,2022-03-21,Austria,Pro,3132.04,Inactive
+CUST-1233,Danielle Williams,ihansen@example.net,43992855749821,2023-03-15,Estonia,Enterprise,2170.47,Inactive
+CUST-1798,Melinda Stevenson,kristine33@example.net,0017159624152,2022-08-12,Western Sahara,Pro,3781.1,Inactive
+CUST-1461,Diana Davis,huntercruz@example.com,96756952366878,2023-08-24,Mozambique,Pro,1596.99,Inactive
+CUST-1124,Laura Lloyd,michaelgonzalez@example.org,9784596969155,2025-10-16,Romania,Enterprise,2167.05,Active
+CUST-1832,Brittany Washington,washingtonashley@example.org,6253623899,2026-09-14,Kiribati,Pro,447.24,Pending
+CUST-1239,Steve Smith,jasonedwards@example.net,4886899210752,2023-07-23,Myanmar,Enterprise,2632.65,Pending
+CUST-1776,John Estrada,ricklewis@example.net,3916015709085,2023-02-25,Cocos (Keeling) Islands,Pro,3270.17,Inactive
+CUST-1614,Kelly Ray,kathleen25@example.com,4298060320203,2023-05-03,Montserrat,Enterprise,916.69,Pending
+CUST-1192,Tina Meyer,robertherrera@example.org,2333555439878,2025-01-25,Kiribati,Pro,433.54,Inactive
+CUST-1833,Andrea Carson,frederick62@example.org,8702878211,2025-12-05,Panama,Enterprise,708.3,Inactive
+CUST-1017,Vanessa Cochran,vjohnson@example.com,534221607337543,2025-01-08,Iran,Enterprise,1001.83,Active
+CUST-1096,Stacy Anderson,No Email Provided,727342054932966,2023-09-23,Bhutan,Enterprise,829.29,Pending
+CUST-1109,Julia Oconnor,gary87@example.org,15083010062,2025-04-04,Algeria,Enterprise,1362.74,Inactive
+CUST-1337,Curtis Torres,rodriguezjohn@example.net,001329865772429543,2023-07-24,India,Pro,4674.53,Pending
+CUST-1996,Adam Payne,kbenson@example.org,3007953662,2022-09-15,Mayotte,Enterprise,269.27,Pending
+CUST-1812,Angela Turner,joeljackson@example.net,9399835844617,2022-10-25,Sri Lanka,Enterprise,2261.4,Pending
+CUST-1161,Jeremiah Baker,anne21@example.org,1558969380686879,2023-03-21,Indonesia,Enterprise,4704.8,Pending
+CUST-1241,Felicia Hobbs,hbutler@example.org,00159046048058925,2021-12-22,Saint Martin,Pro,2351.13,Pending
+CUST-1569,James Flowers,jennifer95@example.com,1464403816649690,2026-05-03,Turks and Caicos Islands,Pro,3398.0,Active
+CUST-1992,Terri Bailey,lcosta@example.net,4625542041,2026-03-13,New Zealand,Enterprise,4482.73,Pending
+CUST-1372,Micheal Evans,floresrobert@example.com,8613033993788,2023-01-25,Ghana,Enterprise,758.43,Inactive
+CUST-1106,Sarah Davis,brettbennett@example.net,15015398373540,2026-07-14,British Indian Ocean Territory (Chagos Archipelago),Pro,1615.08,Active
+CUST-1784,Kelly Wiggins,omay@example.org,6538440777,2022-07-14,Rwanda,Pro,2861.41,Active
+CUST-1871,Richard Martinez,davidkane@example.com,6902016356,2024-01-08,Croatia,Basic,4033.02,Pending
+CUST-1724,Andrew Smith,kristineprince@example.com,4493498194,2024-01-13,Timor-Leste,Basic,3032.19,Inactive
+CUST-1169,Michelle Fletcher,rodney65@example.com,6376489691085,2025-02-22,Liberia,Basic,3311.31,Inactive
+CUST-1879,Tammy Bush,nward@example.com,7157623920908,2022-04-04,Lithuania,Enterprise,1641.99,Inactive
+CUST-1200,Monica Mcclain,hessbeth@example.net,8085488725,2026-03-07,Namibia,Enterprise,146.68,Pending
+CUST-1975,Christopher Wallace,ricky35@example.net,8789018915,2022-08-30,Fiji,Pro,4845.19,Inactive
+CUST-1953,Leon Davila,barbara81@example.net,8838180036,2021-10-29,Portugal,Basic,705.91,Active
+CUST-1050,Erin Bishop,reidsteven@example.net,86192004711382,2023-07-30,Zambia,Enterprise,2562.93,Active
+CUST-1238,Mrs. Heather Edwards Dvm,megan66@example.net,293698368457760,2024-09-13,Maldives,Enterprise,807.31,Active
+CUST-1453,Diana Anderson,dayjohn@example.org,16104595518,2023-10-07,New Zealand,Enterprise,2676.26,Inactive
+CUST-1324,Mr. Michael Keller,kalvarez@example.net,7642796954,2021-11-11,Aruba,Pro,2218.67,Pending
+CUST-1516,Caitlin Davis,portererin@example.com,001933712661094101,2024-10-03,Tajikistan,Basic,428.08,Pending
+CUST-1463,Kristen Velazquez,osanchez@example.org,00142122606501917,2022-06-16,Cambodia,Pro,382.31,Active
+CUST-1739,Jonathan Rodgers,sjohnson@example.com,3126899151,2025-07-25,Ghana,Basic,2938.44,Active
+CUST-1080,Chad Jones,rachelwallace@example.org,1555418844225831,2022-11-27,Lithuania,Basic,998.37,Pending
+CUST-1690,Julie Morris,arobinson@example.org,9296087182,2025-03-17,Iceland,Basic,2515.29,Pending
+CUST-1775,Heather Roth,ryanrodriguez@example.net,26892938440134,2025-08-16,Guam,Pro,3281.82,Inactive
+CUST-1799,Christopher Johnston,oshah@example.net,8587951381,2023-07-21,Zambia,Pro,2933.18,Pending
+CUST-1166,John Black,lori82@example.org,98622890233030,2026-04-25,Romania,Enterprise,1645.13,Inactive
+CUST-1586,Timothy Morse,david10@example.org,0013777397327,2026-01-31,United States of America,Pro,1217.1,Active
+CUST-1131,Jaime Jones,powellkara@example.net,5778590175186,2025-11-05,Lithuania,Pro,3911.58,Inactive
+CUST-1887,Angel Lewis,iedwards@example.com,4414784290,2022-10-25,Cyprus,Enterprise,772.32,Inactive
+CUST-1694,Cody Gonzalez,angela71@example.net,6964180332,2025-06-16,India,Enterprise,346.57,Inactive
+CUST-1361,Terri Miller,richard26@example.org,20269084668455,2026-03-23,New Zealand,Basic,3174.25,Inactive
+CUST-1016,Brittany Johnson,brandi26@example.org,8454053315,2026-05-09,Dominica,Enterprise,4432.99,Inactive
+CUST-1927,Daniel Evans,castanedachristina@example.net,17896596546634,2026-02-05,Western Sahara,Enterprise,2403.73,Active
+CUST-1666,Jonathan Moore,jeremy79@example.net,46652705115794,2024-04-25,Lithuania,Pro,2363.66,Pending
+CUST-1127,Jennifer Vasquez,fburns@example.net,9349043842,2024-06-21,Bouvet Island (Bouvetoya),Enterprise,2785.0,Inactive
+CUST-1511,Sarah Turner,jennifer07@example.net,0013319102918133,2021-11-05,Madagascar,Pro,4168.53,Inactive
+CUST-1325,Jacob Pacheco,hubbardcolleen@example.com,5656565033,2024-09-07,United States Minor Outlying Islands,Pro,651.06,Pending
+CUST-1679,Christine Arroyo,dcortez@example.com,12272789431910,2026-01-04,Yemen,Pro,4237.37,Inactive
+CUST-1766,Dylan Marks,richardperez@example.net,6586243017646,2024-04-15,Suriname,Basic,1050.24,Pending
+CUST-1510,Julia Brown,nelsonvalerie@example.org,491949750198038,2022-05-28,Ukraine,Basic,4016.54,Pending
+CUST-1732,Rebecca Bowman,kayla07@example.net,4885413685,2021-10-16,Japan,Enterprise,2474.74,Pending
+CUST-1594,Steven Mills,clarkjohn@example.net,57138051371717,2024-06-07,Cuba,Basic,2766.58,Pending
+CUST-1572,Fernando Mcconnell,smejia@example.net,00156976815790392,2023-07-14,Macao,Pro,4829.7,Inactive
+CUST-1083,Denise Weber,shawgary@example.net,2296959001,2024-12-23,Seychelles,Pro,4049.71,Pending
+CUST-1455,Mark Garrison,omoore@example.net,00196542717272239,2024-12-17,Angola,Enterprise,616.35,Pending
+CUST-1093,Jamie Baird,stephanie24@example.org,31557473384842,2022-12-07,Paraguay,Basic,2916.94,Pending
+CUST-1637,Amanda Williams,aguirrelarry@example.com,4527982173,2026-05-31,Vanuatu,Enterprise,4901.14,Active
+CUST-1881,Cassandra Schultz,xlove@example.org,441820122759500,2025-07-09,Reunion,Pro,1576.69,Inactive
+CUST-1280,Dr. Scott Cooper,No Email Provided,46693723950410,2023-09-19,Gabon,Basic,636.34,Inactive
+CUST-1922,Lance Townsend,samuelprice@example.org,6595889786533,2022-04-19,Bermuda,Enterprise,96.78,Active
+CUST-1740,Catherine Lewis,No Email Provided,001381789848416046,2023-01-25,Austria,Enterprise,3163.67,Pending
+CUST-1405,Christopher Klein,scottwilliams@example.net,516347090063353,2021-10-20,Antarctica (the territory South of 60 deg S),Enterprise,1347.7,Inactive
+CUST-1331,Ronald Marshall,chenderson@example.org,9422044820,2021-12-31,Ukraine,Enterprise,1494.71,Pending
+CUST-1090,Lauren Robles,carlsonjoseph@example.net,001399530972896230,2021-10-25,Germany,Pro,2143.89,Pending
+CUST-1680,Aaron Wallace,coltonrichardson@example.net,3656146040,2022-06-07,Korea,Basic,3193.53,Pending
+CUST-1624,Michael Mckee,tochoa@example.net,2575798066,2024-07-22,Anguilla,Pro,2212.91,Inactive
+CUST-1037,Samantha Morse,smartinez@example.com,0016642887719065,2022-03-06,Peru,Pro,1135.64,Active
+CUST-1287,Zachary Holland,amanda51@example.com,001943528063461571,2022-06-03,Congo,Enterprise,1094.57,Pending
+CUST-1780,Marie Roach,dianehoffman@example.org,80576129965082,2024-06-11,Cameroon,Basic,2118.53,Active
+CUST-1393,Christopher Kirby,andrea21@example.com,9858390789567,2023-10-08,Spain,Basic,496.16,Inactive
+CUST-1734,Sarah Smith,camerontownsend@example.com,3179518878,2025-01-23,Fiji,Pro,1689.64,Active
+CUST-1408,Raven Nielsen,johnathandavis@example.com,186255257150997,2024-03-28,Romania,Enterprise,4426.96,Pending
+CUST-1285,James Brewer,thomaskayla@example.org,19174410119470,2024-12-26,Afghanistan,Enterprise,3124.09,Pending
+CUST-1352,Shannon Clark,debragraham@example.net,13314472760,2026-03-27,Saint Vincent and the Grenadines,Basic,2653.46,Inactive
+CUST-1607,Daniel Turner,oritter@example.org,001850527160736077,2022-10-01,Hong Kong,Enterprise,150.65,Inactive
+CUST-1965,Ashley Bailey,alexisschaefer@example.com,7005030566199,2021-10-22,Zambia,Pro,1533.77,Active
+CUST-1756,Latoya Mckay,yjackson@example.com,3543930364687,2025-09-15,Brunei Darussalam,Basic,4710.35,Inactive
+CUST-1704,Daniel Shaffer,nharris@example.org,8195947113,2022-12-07,New Zealand,Pro,4672.07,Pending
+CUST-1345,Thomas Sanchez,vrhodes@example.org,61625915201777,2023-05-15,Aruba,Enterprise,1945.71,Inactive
+CUST-1046,Adam Ballard,erica21@example.com,8947647436713,2024-08-06,Reunion,Pro,832.88,Active
+CUST-1646,Keith Fry,michele42@example.com,7309662481323,2021-11-06,Kazakhstan,Pro,4746.68,Inactive
+CUST-1279,John Martinez,yorkjoshua@example.org,14446401929275,2025-08-20,Dominica,Enterprise,4748.17,Active
+CUST-1263,Julia Olsen,conleykevin@example.net,1858480395512405,2024-07-30,Iceland,Enterprise,966.49,Active
+CUST-1564,Craig Wagner,cynthiawilkinson@example.org,34845157919711,2025-05-15,Colombia,Enterprise,236.85,Inactive
+CUST-1281,Travis Nielsen,noahthornton@example.com,7288604765801,2024-10-10,Pakistan,Enterprise,3000.83,Pending
+CUST-1753,Kenneth Smith,sarah78@example.net,5012904322,2025-05-21,Congo,Enterprise,3234.38,Pending
+CUST-1026,Susan Vargas,millerroy@example.com,8046653755,2025-06-25,Switzerland,Pro,4948.14,Pending
+CUST-1397,Oscar Porter,matthew66@example.net,001868845909022599,2022-09-29,India,Basic,1322.0,Inactive
+CUST-1459,Stephen Carson,vasquezvicki@example.org,2454195151,2022-08-12,Marshall Islands,Pro,4145.73,Inactive
+CUST-1710,Stephanie Young,carriejones@example.org,2287178522823,2025-12-31,Seychelles,Basic,2937.55,Active
+CUST-1603,Bryan Jenkins,zshaffer@example.org,708350960858749,2025-05-24,Mongolia,Enterprise,2112.01,Pending
+CUST-1509,Thomas Johnson,idavis@example.net,83928529894062,2024-01-14,Serbia,Pro,153.24,Inactive
+CUST-1289,Amanda Thomas,ruizsamantha@example.org,4203204179,2025-10-24,Botswana,Enterprise,421.57,Active
+CUST-1023,Robert Contreras,stephanie79@example.net,968372774348734,2025-04-16,Dominica,Enterprise,3257.78,Pending
+CUST-1504,Brian Hill,harcher@example.org,7553696443098,2023-11-21,Korea,Pro,406.77,Pending
+CUST-1448,Michelle Wright,whiteaaron@example.net,00175364749162475,2022-04-12,Paraguay,Pro,3576.39,Inactive
+CUST-1592,Danny Clark,joshuastrickland@example.org,133577790833506,2024-04-05,Faroe Islands,Pro,2270.58,Active
+CUST-1398,James Wells,ashley74@example.org,5183209702,2026-04-13,Hungary,Pro,3745.47,Inactive
+CUST-1913,Jessica Lyons,patriciamorrison@example.org,8458735323,2022-02-27,Guernsey,Basic,1242.8,Pending
+CUST-1394,Mr. Alexander Alexander Iii,howardchristopher@example.net,781643111508353,2023-03-28,Suriname,Pro,3750.03,Active
+CUST-1615,Dr. Cody Kane,nhayes@example.com,19489714855245,2025-01-14,Paraguay,Pro,4905.05,Inactive
+CUST-1002,Edward Fuller,barbara10@example.net,4417316475,2023-07-02,Paraguay,Enterprise,557.35,Pending
+CUST-1379,Sergio Carroll,mjackson@example.net,00169959219212493,2025-12-17,Angola,Basic,4996.9,Inactive
+CUST-1654,Emily Conway,talvarez@example.org,94168222618962,2025-03-04,United Kingdom,Pro,3485.2,Inactive
+CUST-1226,Joseph Chang,mauriceharrison@example.org,0015778406493085,2026-02-18,Jordan,Pro,585.09,Active
+CUST-1406,Gabrielle Lee Dds,susandavis@example.net,5205681558,2026-05-25,Indonesia,Enterprise,4704.44,Active
+CUST-1822,Timothy Dunn,paul23@example.org,9125027061592,2024-07-05,Fiji,Pro,3380.2,Inactive
+CUST-1164,Sharon Beard,pbaker@example.com,0018972024629,2023-09-14,Turkmenistan,Basic,1554.18,Active
+CUST-1062,Erik Patterson,amckinney@example.com,8603529751,2022-12-09,Namibia,Enterprise,3464.84,Pending
+CUST-1831,Lee Johnson,deborah97@example.com,16873313797166,2023-10-11,Hong Kong,Pro,2270.26,Inactive
+CUST-1902,Lisa Singh,No Email Provided,91949643385324,2026-03-03,Papua New Guinea,Basic,386.44,Active
+CUST-1824,Susan Sullivan,xelliott@example.net,8564491579554,2026-06-14,El Salvador,Basic,3741.73,Pending
+CUST-1040,Derek Anderson,samuel71@example.org,139342480861317,2024-03-19,Saint Barthelemy,Enterprise,2139.69,Active
+CUST-1861,Mariah Vargas,adrienneallen@example.org,4182706293,2025-04-13,Moldova,Enterprise,2393.92,Active
+CUST-1730,Amanda Maynard,amber70@example.com,906691767993593,2023-03-23,Pakistan,Enterprise,4220.88,Pending
+CUST-1229,Crystal Hernandez,arobinson@example.com,45750512046187,2026-03-15,El Salvador,Basic,2980.88,Pending
+CUST-1218,Jennifer Parks,stephenmartinez@example.net,4506036915594,2022-11-28,Latvia,Pro,1159.9,Active
+CUST-1524,Stephanie Bell,samuel03@example.org,5902368900,2022-02-07,Brunei Darussalam,Enterprise,2272.08,Pending
+CUST-1821,Alan Morrow,jackierichardson@example.com,00156190399529701,2022-04-25,Falkland Islands (Malvinas),Pro,2841.36,Pending
+CUST-1355,Michael Smith,jessica75@example.com,8838959724,2025-11-21,Peru,Pro,3918.55,Inactive
+CUST-1103,Kyle Warner,sanchezbradley@example.com,7837028439,2022-11-27,Turkey,Pro,1061.08,Pending
+CUST-1236,John Preston,mcdonalddanielle@example.com,16653094801,2026-06-12,Maldives,Basic,2195.94,Inactive
+CUST-1709,Michael Williams,foxjonathan@example.org,22644236428131,2023-03-01,Latvia,Enterprise,2313.29,Active
+CUST-1561,Alexandra Ramos,adamcollins@example.org,6482094047604,2026-07-31,Swaziland,Pro,1000.43,Active
+CUST-1735,Heather Davis,paullopez@example.com,00170921122528837,2023-06-04,Iceland,Pro,2939.33,Pending
+CUST-1668,Daniel Nguyen,reneeorr@example.net,54855953259399,2024-03-01,Latvia,Basic,1580.99,Pending
+CUST-1982,Rodney Brooks,julie80@example.net,3052326011939,2022-12-19,Togo,Basic,4767.37,Inactive
+CUST-1391,Chelsea Nichols,markbrown@example.com,4898731791,2025-06-24,Oman,Enterprise,245.14,Inactive
+CUST-1416,Dawn Guzman,alexanderwise@example.net,0018666918362644,2025-05-23,Sao Tome and Principe,Enterprise,4749.43,Pending
+CUST-1451,Kathy Johnson,heather24@example.org,0019038678812,2024-07-14,Iceland,Pro,3140.37,Pending
+CUST-1058,Donald Perez,xbruce@example.net,14804940244550,2024-07-21,Iran,Enterprise,3840.88,Active
+CUST-1470,Kathleen Ballard,katiecollins@example.org,31745242149551,2025-04-11,Kuwait,Basic,4843.57,Pending
+CUST-1718,Cory Lloyd,ronaldcarroll@example.org,4129047137,2022-04-17,Paraguay,Enterprise,1478.58,Inactive
+CUST-1939,Mary Anderson,ibarrabrian@example.net,648271775461992,2023-08-27,Northern Mariana Islands,Pro,315.8,Inactive
+CUST-1752,Daniel Peterson,cheryldavis@example.com,17833074820736,2022-03-02,Myanmar,Enterprise,3871.35,Pending
+CUST-1484,Elizabeth Nichols,jessicaroman@example.com,001440641209117911,2023-01-12,Cocos (Keeling) Islands,Basic,504.2,Pending
+CUST-1942,Angela Wyatt,ccarter@example.net,7924519994,2024-09-17,Saint Pierre and Miquelon,Pro,4846.16,Inactive
+CUST-1700,Stephanie Taylor,james58@example.net,737598214339527,2023-09-06,Saint Barthelemy,Basic,2359.04,Inactive
+CUST-1793,Donna Payne,bentondavid@example.org,309338694842495,2023-02-21,Korea,Pro,4143.6,Pending
+CUST-1183,Robert West,hwest@example.com,00150196608801994,2026-06-23,Haiti,Pro,710.03,Inactive
+CUST-1892,Brian Rodriguez,xlewis@example.com,13818959772,2024-07-02,Aruba,Enterprise,3290.31,Pending
+CUST-1513,Jorge Lyons,No Email Provided,8978546617,2022-06-18,Finland,Basic,2206.6,Inactive
+CUST-1175,Linda Morgan,matthewvalenzuela@example.com,001732260332309821,2023-08-07,Northern Mariana Islands,Pro,2101.48,Pending
+CUST-1548,Nathan Lang,deleonmathew@example.com,001481708358328634,2023-05-19,Cuba,Pro,1297.38,Pending
+CUST-1077,Jeffrey Carney,amymorris@example.org,644279627570596,2022-02-05,Northern Mariana Islands,Basic,3383.15,Pending
+CUST-1731,Ruth Barnett,ralph08@example.org,6378360601,2021-10-20,Trinidad and Tobago,Pro,2561.21,Pending
+CUST-1165,David Reese,penny05@example.com,54791324754691,2022-10-12,Swaziland,Pro,3939.51,Pending
+CUST-1392,Jacqueline Stone,marcbrooks@example.net,87754969033373,2023-03-04,Tuvalu,Basic,2918.89,Pending
+CUST-1283,Douglas Lee,harveybrian@example.net,1639911192692124,2025-01-09,Belarus,Pro,4547.1,Inactive
+CUST-1114,Gina Mack,unovak@example.org,164757358662961,2025-04-15,Belize,Pro,4662.19,Active
+CUST-1977,Kevin Willis,norrisdaniel@example.net,13858739083521,2025-01-15,French Guiana,Enterprise,3920.77,Inactive
+CUST-1535,Derrick Huff,rhonda53@example.com,7753137651,2026-04-19,Palau,Basic,2276.18,Pending
+CUST-1151,Danielle Mcknight,mayokimberly@example.com,58725985642059,2026-03-15,Slovakia (Slovak Republic),Basic,1310.88,Pending
+CUST-1336,Norman House Md,gmcdowell@example.org,0014489156985700,2025-09-05,Burkina Faso,Basic,1417.42,Inactive
+CUST-1520,Ronald Myers,carlos24@example.org,12933898469,2024-08-20,Vietnam,Pro,1026.5,Pending
+CUST-1284,Tammy Hill,qschwartz@example.com,9213406650442,2024-03-07,Vanuatu,Enterprise,4950.65,Inactive
+CUST-1878,Joshua Fritz,patricia88@example.org,12427536462,2023-05-24,Kiribati,Basic,2013.33,Active
+CUST-1952,Clayton Torres,williamsfrank@example.com,19319478911,2022-06-28,Senegal,Pro,2251.44,Inactive
+CUST-1005,Janice Carlson,jrice@example.org,1318645146270482,2025-12-06,Madagascar,Basic,2551.51,Active
+CUST-1035,Wanda Torres,lynchjody@example.org,193461232812067,2021-11-19,France,Enterprise,1350.57,Pending
+CUST-1503,Stephanie Hampton,rrodriguez@example.net,00150236325703965,2022-09-10,Zimbabwe,Basic,2526.3,Pending
+CUST-1571,Cody Hodge,pdavis@example.org,1985507251786376,2025-07-16,Bhutan,Pro,1208.31,Active
+CUST-1636,Gabriel Torres,No Email Provided,19724835129592,2024-04-04,Suriname,Enterprise,4990.85,Inactive
+CUST-1371,Christopher Johnson,No Email Provided,18244224124,2022-01-06,Greece,Enterprise,3431.52,Inactive
+CUST-1172,Samuel Ruiz,kennedyjames@example.org,1768446022356972,2025-08-14,Libyan Arab Jamahiriya,Enterprise,1586.58,Active
+CUST-1444,Jessica Taylor,tsmith@example.org,4345026650,2026-06-19,Papua New Guinea,Basic,3649.85,Pending
+CUST-1882,Angela Rodriguez,michellearias@example.com,159447950740717,2024-01-16,Mexico,Enterprise,4419.92,Inactive
+CUST-1834,Alyssa Pratt,cody81@example.org,2996898972117,2026-05-13,Malawi,Basic,933.44,Pending
+CUST-1082,Laurie Saunders,ryanbartlett@example.org,6823422535,2022-12-22,North Macedonia,Pro,2340.01,Active
+CUST-1079,Kendra Sanders,john10@example.net,5786681447,2025-03-11,Liechtenstein,Pro,4012.93,Active
+CUST-1542,Thomas Moran,wallaceryan@example.com,4247151315,2023-02-07,Norfolk Island,Enterprise,3068.54,Inactive
+CUST-1209,Joshua Cunningham,victoria63@example.com,16877258874,2025-08-05,Indonesia,Enterprise,2693.91,Inactive
+CUST-1071,Jeffrey Potts,lisawilkerson@example.org,406485361530515,2021-11-29,United States Virgin Islands,Pro,3361.44,Active
+CUST-1414,Jonathan Swanson,asullivan@example.com,00155687491601692,2026-07-05,Sierra Leone,Basic,1212.26,Pending
+CUST-1905,Bob Cooper,andrew09@example.com,18488152692559,2023-03-26,Kiribati,Enterprise,4672.82,Inactive
+CUST-1457,Charles Burton,sparksalbert@example.org,16517327972,2024-02-12,Ecuador,Enterprise,4334.19,Inactive
+CUST-1836,Amy Johnson,barnesluke@example.net,3233691496,2026-05-24,Malawi,Basic,4182.37,Active
+CUST-1995,Jon Evans,jacobsmith@example.net,183236118900346,2025-02-28,Cuba,Enterprise,1807.29,Pending
+CUST-1487,Teresa Adams,fgonzalez@example.com,0016848776863423,2022-03-27,South Africa,Enterprise,1655.7,Pending
+CUST-1931,Sarah James,hernandezcheryl@example.net,7028512137,2026-01-17,Marshall Islands,Basic,4809.27,Pending
+CUST-1099,Angela Griffin,christian91@example.org,19833982258,2025-02-14,Saint Barthelemy,Pro,643.44,Pending
+CUST-1872,Diana Lin,wesleycalhoun@example.net,440801788224731,2022-01-31,Western Sahara,Enterprise,3373.68,Active
+CUST-1269,Julie Bryant,oruiz@example.org,13457625577017,2024-02-12,Tanzania,Enterprise,676.59,Active
+CUST-1667,Jennifer Smith,crystal54@example.net,19693192845525,2021-10-23,Heard Island and McDonald Islands,Basic,3079.14,Active
+CUST-1525,Douglas Edwards,whitneyanderson@example.com,61151483753745,2024-05-10,Ethiopia,Enterprise,3194.73,Pending
+CUST-1860,Amy Kaiser,timothy27@example.org,4726463019864,2022-05-20,Costa Rica,Basic,1534.45,Active
+CUST-1705,Christopher Robinson,smithemily@example.com,0019969733116,2022-06-22,Tuvalu,Pro,989.68,Active
+CUST-1933,Krista Williams,kennethwhite@example.com,6208334742,2022-10-05,Botswana,Pro,4647.93,Inactive
+CUST-1670,Amy Wright,murphymallory@example.com,15243575983,2023-03-15,Bahamas,Pro,4125.53,Active
+CUST-1215,Mark Gamble,laurengutierrez@example.com,780543416518275,2026-03-12,Ethiopia,Pro,3772.45,Inactive
+CUST-1736,Jessica Aguirre,mlewis@example.net,127991378765530,2022-08-30,Montserrat,Enterprise,3164.84,Pending
+CUST-1317,Charles Francis,stacy55@example.org,293389119083342,2026-05-06,Uruguay,Pro,1299.37,Active
+CUST-1618,Kiara Brooks,beckercynthia@example.net,6288963406,2026-03-25,Italy,Basic,1502.54,Active
+CUST-1381,Aaron Lee,beardlindsey@example.net,3612332541,2024-02-14,Sri Lanka,Pro,2895.32,Pending
+CUST-1801,Felicia Young,millermichael@example.com,51584715531325,2024-02-07,Tanzania,Enterprise,1219.7,Pending
+CUST-1574,Amanda Mullen,zwhite@example.net,917215160252986,2024-02-26,Paraguay,Pro,2335.32,Inactive
+CUST-1191,Beverly Silva,adam72@example.org,7593094798,2025-08-23,Ghana,Pro,3152.4,Inactive
+CUST-1644,Michael Arias,smitchell@example.com,0015414163187,2024-04-24,Argentina,Pro,1945.13,Pending
+CUST-1733,Matthew Potts,garciasarah@example.net,6243462632514,2022-02-07,Cape Verde,Pro,2400.72,Active
+CUST-1533,Rodney Perry,jliu@example.org,495256574902504,2022-04-03,Croatia,Enterprise,2990.7,Inactive
+CUST-1081,Julian Wood,cherylmiller@example.com,77846691251778,2026-02-11,Slovakia (Slovak Republic),Pro,743.9,Active
+CUST-1889,Lisa Smith,susan75@example.net,18876592129,2022-07-23,Aruba,Enterprise,2117.01,Active
+CUST-1742,Nicholas Martinez,veronicasmith@example.net,6937783063963,2022-05-27,Nauru,Basic,206.27,Pending
+CUST-1677,Natasha Campbell,william23@example.net,8535546147079,2022-08-24,Armenia,Basic,851.74,Pending
+CUST-1496,Shannon Hodges,jeanette28@example.org,5353679836,2023-02-10,Chad,Enterprise,3352.31,Active
+CUST-1374,Walter Brooks,kimberlymedina@example.com,12709079420,2023-02-02,El Salvador,Enterprise,96.52,Inactive
+CUST-1105,Joshua Allen,kevinzimmerman@example.com,6865688263,2023-05-17,Belgium,Basic,3374.87,Inactive
+CUST-1717,Amanda Maxwell,lutzeric@example.com,674222319646300,2026-06-29,Congo,Enterprise,2830.99,Inactive
+CUST-1935,Dennis Chaney,jared50@example.org,8858022894,2023-06-01,Kiribati,Pro,3401.32,Pending
+CUST-1538,Leslie Jensen,jonessamantha@example.com,776947229812099,2023-08-15,Kazakhstan,Pro,562.33,Inactive
+CUST-1788,Sean Carter,dudleycody@example.com,90347341678127,2026-04-20,Belarus,Basic,1686.89,Pending
+CUST-1621,Calvin Paul,No Email Provided,340364176927438,2026-09-17,Netherlands,Pro,1303.9,Pending
+CUST-1852,Veronica Smith,zchapman@example.com,0016789231299570,2022-05-25,Saint Barthelemy,Pro,4387.48,Pending
+CUST-1469,Nathan Wilkerson,kaylamartin@example.net,598357254596063,2026-07-07,Montenegro,Pro,4347.06,Pending
+CUST-1182,Mr. Martin Hernandez,smithsarah@example.net,87281753540838,2025-10-22,Belgium,Basic,4591.48,Active
+CUST-1521,Deborah Johnson,No Email Provided,2387503719,2026-08-18,Zambia,Basic,3813.07,Pending
+CUST-1460,Christopher Coleman,colleen45@example.org,9753410225267,2022-04-15,Japan,Pro,3661.58,Inactive
+CUST-1492,Miranda Hill,richard85@example.com,12062477159103,2022-06-01,Gibraltar,Enterprise,2238.12,Inactive
+CUST-1088,Samantha Hanson,andersoncolin@example.com,985923986800025,2022-06-20,Uganda,Basic,1925.92,Inactive
+CUST-1222,Christopher Morton,robert99@example.com,8126535544,2026-02-28,Slovakia (Slovak Republic),Pro,3363.82,Pending
+CUST-1638,Sandra Bowers,barnettcameron@example.org,3237736050791,2026-04-13,Mongolia,Basic,3372.36,Inactive
+CUST-1205,Bridget Jackson,zacharysullivan@example.net,140441379772369,2024-11-02,Malawi,Basic,1401.03,Inactive
+CUST-1156,Laura Rosales,whitelucas@example.net,7914725135,2024-11-26,Benin,Pro,3134.62,Pending
+CUST-1150,Terry Hill,cstephenson@example.net,14938476870146,2022-09-20,Turks and Caicos Islands,Basic,1956.72,Pending
+CUST-1340,Jason Thomas,theresa39@example.com,8595710725,2025-04-16,Russian Federation,Enterprise,4994.57,Inactive
+CUST-1862,Carol Martinez,smithjerry@example.org,2189676610,2025-04-19,British Virgin Islands,Pro,4294.83,Active
+CUST-1547,James Gaines,todd35@example.net,3477639283,2022-05-15,Mauritius,Basic,2811.92,Inactive
+CUST-1102,Sandy Avila,steven86@example.net,53357524310690,2022-01-21,Nepal,Enterprise,2847.87,Inactive
+CUST-1278,Laura Rivera,susan44@example.org,2946940792,2025-10-07,Nigeria,Enterprise,315.36,Active
+CUST-1059,Patrick Bonilla,No Email Provided,2523545991022,2023-01-31,Panama,Enterprise,2402.65,Pending
+CUST-1311,Tyler Flowers,qmartinez@example.com,827630147195979,2024-11-11,Lebanon,Pro,3192.18,Inactive
+CUST-1761,Brittany Holloway,No Email Provided,70876700900436,2022-03-02,Saint Kitts and Nevis,Enterprise,2738.79,Inactive
+CUST-1129,Cynthia Cochran,michelle96@example.org,17236309584982,2023-03-03,Ethiopia,Basic,4499.68,Active
+CUST-1198,Craig Carpenter,No Email Provided,17137577594929,2026-07-08,Chile,Pro,358.22,Inactive
+CUST-1655,Brian Dougherty,cdavis@example.org,27697209579927,2026-06-16,Montenegro,Basic,657.06,Active
+CUST-1073,Mark Dean,rodriguezrebecca@example.net,17085932460,2024-07-29,Colombia,Enterprise,2389.72,Inactive
+CUST-1589,Michael Ellis,wgoodwin@example.com,247557494902284,2026-02-15,Mongolia,Pro,3967.33,Active
+CUST-1794,Katie Rivers,dominguezscott@example.com,4382676738,2026-05-24,Korea,Pro,479.35,Pending
+CUST-1645,Brian Perez,wlopez@example.net,2365957279,2025-07-26,Saint Kitts and Nevis,Basic,3045.22,Pending
+CUST-1938,Todd Thompson,No Email Provided,22330342028471,2023-12-29,Central African Republic,Enterprise,438.22,Pending
+CUST-1919,Christopher Sims,richardsonronnie@example.net,8115955640919,2024-09-04,Korea,Enterprise,4958.79,Pending
+CUST-1396,Sharon Perez,thomasblack@example.net,001777451536637780,2024-08-11,Brunei Darussalam,Pro,2677.72,Inactive
+CUST-1297,Danielle Murphy,patriciavargas@example.org,0018069007806,2025-10-09,Qatar,Enterprise,787.5,Inactive
+CUST-1890,Ryan Barnes,lauradyer@example.org,2559821477092,2022-04-18,Spain,Basic,1682.83,Inactive
+CUST-1936,Monica Molina,jamesanderson@example.org,12305202569133,2021-10-31,Congo,Pro,1950.04,Pending
+CUST-1754,Christina Phillips,stanleyjeremiah@example.org,9138546212,2021-10-04,Holy See (Vatican City State),Pro,3069.88,Active
+CUST-1171,Joseph Glover,william28@example.org,81772482513534,2023-08-01,Myanmar,Pro,512.27,Active
+CUST-1255,Sonya Davis,heather21@example.org,8758186892,2021-12-10,Chile,Basic,1506.47,Inactive
+CUST-1906,Scott Allen,rberg@example.org,2596142614,2024-12-22,Myanmar,Enterprise,2464.88,Active
+CUST-1476,Craig Mcmahon,salvarez@example.org,0014657960893199,2025-01-16,Swaziland,Basic,4045.75,Pending
+CUST-1688,Daniel Carey,jonesshaun@example.org,956209456534699,2025-02-12,Antigua and Barbuda,Enterprise,1360.05,Active
+CUST-1007,Shane Henderson,sarahcampos@example.net,5463578713,2023-05-31,Namibia,Enterprise,2747.46,Active
+CUST-1104,Matthew Walker,joshua89@example.net,8688705685,2022-06-20,Honduras,Pro,1231.5,Inactive
+CUST-1094,Courtney Hall,gutierrezjennifer@example.org,1520282677345401,2026-04-16,China,Basic,3752.48,Active
+CUST-1829,Kevin Warren,hollyalvarez@example.org,2463661459,2025-09-12,Australia,Basic,3840.85,Pending
+CUST-1703,Jenny Williams,smithmatthew@example.net,00154446333999485,2021-11-01,Myanmar,Enterprise,2119.77,Active
+CUST-1473,Hannah Mcdonald,lrodriguez@example.net,9665365155,2025-03-27,Lebanon,Pro,1160.01,Active
+CUST-1727,Melissa Riley,hgraham@example.net,1289643705263510,2023-09-02,Suriname,Enterprise,2312.09,Pending
+CUST-1808,Nancy Lee,martinezcatherine@example.net,5498106018,2023-01-13,Cayman Islands,Pro,2108.44,Pending
+CUST-1012,Cody Larson,richarddavid@example.net,7996091699,2022-09-29,Saint Barthelemy,Pro,4245.1,Pending
+CUST-1928,Nichole Parker,kristen49@example.org,69989393449743,2023-01-15,Malta,Basic,3437.92,Inactive
+CUST-1257,Jonathan Jimenez,franklintrevor@example.org,0015776671990,2024-10-27,Moldova,Enterprise,1876.65,Pending
+CUST-1611,Susan Baker,anthony05@example.org,70256086982210,2022-03-08,Bahrain,Enterprise,3159.87,Pending
+CUST-1806,Wendy Wilson,miranda13@example.org,857808368214448,2024-08-27,Saint Barthelemy,Basic,4788.93,Inactive
+CUST-1875,Michael Travis,wileyaudrey@example.com,15548329876,2023-06-12,Nepal,Basic,4688.94,Pending
+CUST-1260,Veronica Rice,webbhaley@example.net,96995489952997,2025-10-06,Turks and Caicos Islands,Pro,1391.04,Inactive
+CUST-1246,Amanda Jackson,james94@example.org,3017645104636,2024-02-23,Nepal,Basic,2496.82,Inactive
+CUST-1068,Christopher Lewis,ilee@example.org,4418888059,2022-06-29,Cocos (Keeling) Islands,Basic,401.42,Pending
+CUST-1307,Alexander Williamson,seandavis@example.org,18395834301871,2024-03-05,Netherlands,Enterprise,4756.39,Pending
+CUST-1845,James Baker,ijensen@example.net,6963987486,2023-05-12,Namibia,Enterprise,3531.27,Active
+CUST-1098,Michele Collins,fowlershelia@example.com,15335272795687,2025-02-14,Nepal,Enterprise,386.41,Active
+CUST-1142,Nathan Nelson,duncandavid@example.net,6237806174,2022-02-25,Korea,Pro,1674.9,Active
+CUST-1271,John Jones,lisagarza@example.com,0019587321971,2024-07-01,Swaziland,Basic,3207.45,Inactive
+CUST-1208,Susan Miller,ascott@example.net,00140988180635651,2024-12-24,El Salvador,Basic,4210.5,Active
+CUST-1387,Erin Lane,christina65@example.org,5705730337,2024-02-16,Seychelles,Basic,3201.26,Pending
+CUST-1153,Melissa Sloan,warnermichael@example.net,0012293378427,2022-01-01,Netherlands,Enterprise,3611.18,Pending
+CUST-1823,Kyle Brown,reynoldsmichelle@example.org,232524815542034,2022-01-06,Andorra,Enterprise,157.76,Inactive
+CUST-1957,Ashley Dudley,ericwagner@example.org,4399218835,2025-05-29,Saint Lucia,Enterprise,3010.32,Inactive
+CUST-1675,Sheila Perez,newmanangela@example.org,183720033228556,2024-04-10,French Guiana,Pro,2539.18,Active
+CUST-1549,Danielle Smith,No Email Provided,87042440330416,2025-10-25,Turkey,Enterprise,4372.73,Inactive
+CUST-1190,Priscilla Berg,rhondabush@example.net,3988933472122,2021-12-04,Fiji,Enterprise,1422.69,Pending
+CUST-1003,Timothy Wong,amandasanchez@example.com,74853503056413,2024-12-31,Indonesia,Enterprise,480.35,Inactive
+CUST-1671,Chloe Lindsey,john66@example.net,3447324006,2024-01-18,United States of America,Basic,4863.28,Pending
+CUST-1478,Tristan Bonilla,woodmichael@example.com,38147766558685,2024-01-07,Holy See (Vatican City State),Enterprise,179.96,Pending
+CUST-1328,Laura Vargas,No Email Provided,5518484685,2023-09-26,Nigeria,Enterprise,2069.55,Active
+CUST-1783,Pamela Gordon,millerjames@example.net,200916809414915,2023-10-06,Christmas Island,Pro,4389.88,Active
+CUST-1625,Erin Carter,upham@example.com,5557534705742,2025-06-05,Sao Tome and Principe,Enterprise,2226.7,Inactive
+CUST-1560,Christopher Schultz,jennifer68@example.com,54188652057563,2023-08-05,Venezuela,Basic,4758.29,Inactive
+CUST-1578,Charles Davila,reyestina@example.org,546260241613944,2023-08-05,Lebanon,Enterprise,2428.92,Inactive
+CUST-1880,Emily Johnson,prestoncory@example.org,6789619025,2025-02-17,Austria,Pro,2357.94,Pending
+CUST-1865,Jennifer Davis,steinphillip@example.com,61193407851699,2021-12-06,Nicaragua,Enterprise,713.76,Active
+CUST-1029,Hannah Patterson,casey50@example.com,91685726284987,2025-11-07,Nauru,Basic,4117.92,Inactive
+CUST-1009,Brandon Hopkins,rodney70@example.net,141066513338726,2024-01-14,Tunisia,Basic,3505.79,Inactive
+CUST-1859,Martin Curtis,No Email Provided,18784848699,2026-02-23,Serbia,Pro,3496.73,Inactive
+CUST-1286,Mary Adams,rebecca90@example.net,0017777661830671,2025-02-17,Iran,Enterprise,541.21,Active
+CUST-1803,Bonnie Woods,michael38@example.net,12567225866,2026-01-16,Myanmar,Pro,3446.06,Pending
+CUST-1687,Melissa Travis,No Email Provided,001330581721436438,2021-11-02,Antarctica (the territory South of 60 deg S),Basic,275.04,Pending
+CUST-1047,William Barrett,alan09@example.net,94329533942104,2024-08-14,Saint Martin,Enterprise,4385.47,Inactive
+CUST-1360,Jonathan Miller,jennifer65@example.net,1932486326667850,2025-07-29,Saint Barthelemy,Enterprise,227.7,Active
+CUST-1567,Donna Peterson,christopher34@example.org,8402182727955,2023-02-05,Bosnia and Herzegovina,Enterprise,4054.77,Active
+CUST-1069,Patricia Lamb,jenniferwilliams@example.com,1937994738347359,2025-07-27,Slovakia (Slovak Republic),Basic,1183.26,Active
+CUST-1686,Jason Rodriguez,stonebarbara@example.com,18238571558,2022-10-26,Guernsey,Enterprise,253.91,Active
+CUST-1020,Elizabeth Parker,snguyen@example.com,18232662994,2023-03-30,Cote d'Ivoire,Pro,1425.97,Pending
+CUST-1759,Gail Johnson Md,rowehannah@example.net,3159291137,2025-08-22,Mauritania,Pro,2824.41,Pending
+CUST-1044,Gina Schwartz,christianmelissa@example.net,35798091343161,2022-07-21,French Southern Territories,Enterprise,4429.7,Inactive
+CUST-1856,Dana Carter,tracyjohnson@example.net,13628175080,2026-07-15,Sweden,Enterprise,2164.64,Inactive
+CUST-1627,Heather Shaffer,kari25@example.org,4398488488,2024-10-24,Belarus,Enterprise,2512.74,Pending
+CUST-1033,Christopher Smith,joshuamccann@example.net,62791094777520,2022-04-17,Bahrain,Enterprise,2321.32,Inactive
+CUST-1401,James Aguirre,renee77@example.com,0014018475469,2022-12-20,United Arab Emirates,Enterprise,3634.87,Inactive
+CUST-1867,Jeffrey Peters,kennedywanda@example.net,197981505962571,2021-11-02,Nepal,Basic,4615.02,Inactive
+CUST-1359,Susan Moore,jean87@example.net,2255521376,2025-11-24,Lebanon,Pro,3152.66,Inactive
+CUST-1945,Christopher Dalton,rcannon@example.com,8958377492,2024-11-23,Cote d'Ivoire,Pro,2187.65,Pending
+CUST-1335,Jasmine Browning,qpennington@example.com,6343327560,2025-11-02,Wallis and Futuna,Enterprise,3744.15,Active
+CUST-1417,Monica Davis,lisa43@example.net,44042701168646,2023-08-06,Romania,Enterprise,2124.68,Pending
+CUST-1631,Dr. Kimberly Garcia,jenniferrobbins@example.net,19378490797,2022-01-17,Chile,Basic,446.34,Pending
+CUST-1402,Jessica Cruz,hollydavis@example.net,8323484137,2026-09-13,Belarus,Enterprise,1860.59,Inactive
+CUST-1960,Kimberly Gallagher,bailey12@example.com,6348989925539,2024-11-11,Algeria,Enterprise,4530.78,Active
+CUST-1498,Heather Lewis,gshaw@example.com,6745510663,2023-09-26,Nepal,Basic,88.05,Inactive
+CUST-1181,Allen Cohen,timothyfreeman@example.com,3018450899358,2025-01-11,Egypt,Enterprise,2349.52,Pending
+CUST-1648,Abigail Smith,cervanteskayla@example.org,6098810796,2023-12-21,San Marino,Basic,2670.83,Inactive
+CUST-1220,Brittany Shaffer,roberttaylor@example.net,685974489061203,2025-12-01,Bhutan,Basic,1036.84,Active
+CUST-1656,Gerald Miller,casey29@example.com,1862413541597099,2023-07-20,El Salvador,Pro,904.65,Pending
+CUST-1481,Ryan Pope,anunez@example.com,4008258955,2022-12-06,India,Pro,1787.57,Active
+CUST-1914,Julie Davis,arnoldstephen@example.net,2693718236,2021-10-16,British Virgin Islands,Enterprise,1299.47,Inactive
+CUST-1591,Jordan Berg,kwoods@example.com,192988585672872,2021-10-17,Yemen,Enterprise,4164.0,Pending
+CUST-1816,Yolanda Mack,andrespence@example.org,21949517152391,2024-12-08,Chad,Basic,864.46,Pending
+CUST-1623,Dana Simpson,gwade@example.net,38939698609191,2026-07-23,Dominican Republic,Enterprise,1693.03,Active
+CUST-1152,Robert Ruiz,katie32@example.org,4344803965,2022-11-27,Ghana,Pro,58.37,Pending
+CUST-1664,Jacqueline Evans,vedwards@example.org,8929056775,2026-01-25,Kyrgyz Republic,Basic,1221.84,Inactive
+CUST-1608,Belinda Costa,martinjason@example.com,00139595633185748,2021-10-20,Hong Kong,Basic,3196.57,Inactive
+CUST-1343,Zachary Gallagher,angelalivingston@example.net,8033203207427,2026-09-13,Vanuatu,Pro,2303.96,Inactive
+CUST-1240,David Evans,ncarroll@example.net,2578279194,2022-02-11,Azerbaijan,Pro,3098.77,Pending
+CUST-1145,Jennifer Huang,fvillegas@example.net,4825619906,2023-03-07,Thailand,Pro,4699.22,Active
+CUST-1563,Scott Ramirez,dianamclaughlin@example.com,1652395806601382,2022-08-02,Aruba,Enterprise,3865.83,Pending
+CUST-1813,David Smith,jose49@example.com,13124799702927,2021-12-31,Egypt,Pro,436.61,Pending
+CUST-1725,Mason Graves,crawfordjeffrey@example.com,6658277584,2023-10-24,Venezuela,Enterprise,249.26,Active
+CUST-1585,Ms. Monique Dougherty Md,garrettgarrett@example.net,9507968832,2025-05-04,Dominican Republic,Pro,313.62,Pending
+CUST-1910,Donald Brown,buckleycrystal@example.com,2782105580,2026-04-30,Liberia,Enterprise,4075.13,Pending
+CUST-1826,Ann Martin,stephenszachary@example.net,1257812901507138,2023-12-27,Egypt,Enterprise,365.61,Active
+CUST-1330,Paul Cannon,ejenkins@example.net,5643424936,2022-06-21,Antarctica (the territory South of 60 deg S),Enterprise,4169.11,Inactive
+CUST-1650,Joe Page,vanessamartinez@example.net,7368667776755,2022-05-22,Marshall Islands,Basic,178.27,Active
+CUST-1296,Judy Jackson,jeffrey49@example.org,199269831687397,2021-10-17,Japan,Pro,618.14,Active
+CUST-1898,Stephen Jennings,harrisonnicholas@example.net,6293831043,2024-10-27,India,Enterprise,4788.32,Pending
+CUST-1057,Robin Hawkins,elizabeth65@example.net,001360749451983273,2025-12-13,Heard Island and McDonald Islands,Enterprise,2455.65,Active
+CUST-1660,Tracy Welch,No Email Provided,5235121106,2021-12-21,Belgium,Pro,4264.24,Pending
+CUST-1027,Ruben Ruiz,cookemichael@example.net,4009330923,2025-01-26,Mongolia,Enterprise,2806.9,Pending
+CUST-1400,Beverly Harris,qmeyers@example.com,5992493874,2026-09-05,Kiribati,Basic,3783.05,Active
+CUST-1773,Brandon Peck,david86@example.net,2503537666,2022-04-21,Brunei Darussalam,Pro,547.7,Active
+CUST-1568,Sheila Smith,valvarez@example.net,9259427820,2024-09-09,Puerto Rico,Enterprise,2216.48,Inactive
+CUST-1590,Eddie Duffy,ashleytorres@example.net,6424229464303,2024-08-23,Eritrea,Basic,1470.05,Inactive
+CUST-1006,Brittany Farmer,georgetracy@example.org,4439039117182,2026-06-16,Chad,Enterprise,1034.25,Pending
+CUST-1295,Angel Richards,zamoradustin@example.net,2262527354352,2023-02-15,Bouvet Island (Bouvetoya),Enterprise,3322.86,Active
+CUST-1782,Jennifer Hernandez,melissa40@example.org,8733008696,2026-09-19,Brazil,Pro,972.24,Pending
+CUST-1532,Trevor Braun,allen58@example.net,3935511871,2022-09-28,Montserrat,Pro,429.82,Active
+CUST-1108,Sean Figueroa,greensarah@example.net,00166492353693785,2026-07-22,Norway,Basic,412.64,Active
+CUST-1244,Connor Cooper,carrillogary@example.com,12795270335211,2026-06-20,Vanuatu,Basic,3764.86,Pending
+CUST-1707,Harry Hill,rachel69@example.com,7938170695,2021-10-28,Jordan,Pro,4401.42,Inactive
+CUST-1346,Tiffany Nguyen,No Email Provided,35021896164236,2025-12-26,Central African Republic,Basic,1624.97,Inactive
+CUST-1685,Stacey Cook,debbie78@example.net,4055829582,2025-11-05,Indonesia,Enterprise,4514.9,Inactive
+CUST-1978,Carolyn Phillips,jill88@example.com,17974957285759,2026-06-14,Saint Vincent and the Grenadines,Pro,1437.49,Inactive
+CUST-1049,Jennifer Singleton,christopher60@example.com,15179549651,2021-11-05,Turks and Caicos Islands,Basic,4359.07,Inactive
+CUST-1842,Carla Hoover,jenniferrodriguez@example.org,76025230458816,2026-04-10,Guyana,Pro,3093.87,Active
+CUST-1966,Edward Grant,margaretirwin@example.net,26729087018726,2022-04-15,Sao Tome and Principe,Pro,1295.91,Active
+CUST-1302,Melissa Spence,lopeznicole@example.org,4629411241,2022-06-22,Costa Rica,Pro,2527.34,Inactive
+CUST-1087,Julie Herrera,jordannicole@example.net,3658060983584,2024-03-30,Serbia,Basic,4330.02,Active
+CUST-1465,Jeff Vaughan,qspencer@example.net,543862418623690,2022-08-22,Samoa,Enterprise,1894.6,Active
+CUST-1894,Mary Cowan,garywebster@example.org,5024839482,2025-01-13,Cape Verde,Enterprise,3226.39,Inactive
+CUST-1224,Kelly Ferrell,bakereric@example.net,74393472282005,2024-01-22,Trinidad and Tobago,Pro,880.56,Pending
+CUST-1462,Kelsey Frank,jacquelineyoung@example.org,7054872105,2023-03-13,Cambodia,Pro,4770.28,Pending
+CUST-1662,Joshua Kaufman,warnercharles@example.org,532269496843645,2024-12-30,Pitcairn Islands,Basic,3978.8,Pending
+CUST-1351,Albert Foster,jacksonthomas@example.net,59734995641220,2025-10-20,Qatar,Pro,4355.02,Inactive
+CUST-1583,Morgan Morales,nbell@example.com,19459515888636,2023-02-26,Uzbekistan,Pro,503.98,Active
+CUST-1063,Blake Harrell,jeffrey21@example.net,141848355231243,2025-07-10,Palau,Pro,2025.01,Pending
+CUST-1064,Trevor Burton,wwebster@example.net,2997552717744,2024-04-04,Georgia,Enterprise,1898.43,Pending
+CUST-1802,Anne Lindsey,cyork@example.org,13429141052769,2024-07-12,Netherlands,Basic,2353.71,Active
+CUST-1573,Lisa Walton,brewerdevin@example.org,4346615626,2023-04-12,Peru,Basic,1870.81,Pending
+CUST-1723,Taylor Leon,victoriasmith@example.org,6247559102,2022-03-22,Myanmar,Enterprise,4697.8,Active
+CUST-1213,Curtis Smith,calhounandrea@example.net,18952543937,2023-01-11,Ireland,Pro,1670.4,Inactive
+CUST-1595,Elizabeth Smith,hcallahan@example.net,7399970469472,2024-04-17,Zambia,Enterprise,2662.47,Active
+CUST-1235,Joseph Jones,No Email Provided,53130967899405,2021-10-14,Uruguay,Basic,4255.4,Inactive
+CUST-1557,Brandon Weber,carlfields@example.org,5033446945964,2024-09-07,Bosnia and Herzegovina,Enterprise,4566.62,Active
+CUST-1642,Dylan Strong,tracey63@example.com,80222939469434,2023-10-20,Isle of Man,Pro,222.25,Active
+CUST-1418,John Shaw,hayeslisa@example.org,4023346791,2023-03-10,Honduras,Enterprise,814.89,Inactive
+CUST-1593,Kimberly Figueroa,wallerbrian@example.net,333542337209484,2025-05-22,United States Virgin Islands,Basic,144.07,Active
+CUST-1814,Linda Wolf,nhiggins@example.com,0017528988322012,2025-05-15,Saint Kitts and Nevis,Basic,355.7,Pending
+CUST-1309,Jessica Mosley,maryharper@example.org,2478851961,2024-12-01,Faroe Islands,Pro,2618.87,Inactive
+CUST-1342,Johnathan Morgan,uanderson@example.net,662741502745644,2023-11-26,Chad,Pro,1695.58,Pending
+CUST-1899,Keith Solis,No Email Provided,305868566706362,2023-07-14,Bahamas,Basic,4203.39,Active
+CUST-1167,Jacob Marshall,hreid@example.net,7357797279,2022-07-16,Uganda,Pro,3394.35,Pending
+CUST-1482,Matthew Poole,oanderson@example.com,00182665826312819,2025-11-28,Cayman Islands,Basic,2853.29,Inactive
+CUST-1126,Tamara Arias,angelaburns@example.org,5578905072,2026-07-17,Madagascar,Basic,2750.67,Inactive
+CUST-1409,Crystal Jensen Dvm,joel63@example.net,5022574326,2022-11-29,Saint Kitts and Nevis,Pro,4580.52,Active
+CUST-1176,Joseph Williams,stanleydesiree@example.org,4165761847,2025-03-14,Norfolk Island,Enterprise,1012.45,Pending
+CUST-1125,Tamara Lawrence,lawrenceallen@example.org,8528866929,2022-08-26,North Macedonia,Basic,422.46,Pending
+CUST-1787,Daniel Henderson,david78@example.net,2614337184449,2026-01-17,Gibraltar,Enterprise,2366.7,Active
+CUST-1897,Craig Fleming,cooperlaura@example.org,2774569198321,2026-09-04,Benin,Pro,961.04,Pending
+CUST-1288,Zachary Allen,ibrown@example.net,97847005050613,2025-06-05,Djibouti,Basic,827.43,Active
+CUST-1610,Pamela Brown,michelleguerrero@example.com,12629622822512,2022-09-28,Iraq,Basic,1756.77,Pending
+CUST-1075,Ashley Perkins,dennis58@example.com,122777221704303,2026-05-23,Malaysia,Enterprise,2183.7,Inactive
+CUST-1954,Michelle Brown,sharon28@example.com,4866310505,2022-12-11,Marshall Islands,Pro,2271.78,Pending
+CUST-1837,Megan Garza,No Email Provided,7765970409,2025-04-16,Eritrea,Pro,2341.87,Pending
+CUST-1970,Linda Smith,prestonbarrett@example.org,5737277264,2024-07-02,Rwanda,Pro,4215.99,Inactive
+CUST-1926,John Miller,derrick63@example.com,3054970255,2024-05-14,Kyrgyz Republic,Basic,1096.51,Pending
+CUST-1232,Luke Galvan,browndeanna@example.net,15122735857,2025-03-03,Guinea-Bissau,Enterprise,3924.04,Inactive
+CUST-1930,Betty Vazquez,daltonkathleen@example.com,548253465579220,2021-12-08,Fiji,Basic,4647.39,Inactive
+CUST-1681,Stacy Mcbride,davidfields@example.net,6726011379,2021-11-01,Mongolia,Pro,669.59,Inactive
+CUST-1373,Jason Washington,bschultz@example.com,19913382496,2025-12-15,Macao,Enterprise,1307.19,Inactive
+CUST-1013,Derek Anderson,stephen10@example.com,17916183842513,2022-06-07,Syrian Arab Republic,Pro,4045.28,Pending
+CUST-1893,Nicole Mejia,timothycannon@example.net,16317869289728,2026-07-13,Georgia,Pro,1323.77,Inactive
+CUST-1308,Terri Kerr,raymond65@example.com,9046554781376,2022-07-17,Saint Lucia,Pro,2902.42,Active
+CUST-1696,Mark Weaver,thomasdavid@example.net,7175819236,2025-11-11,Ireland,Pro,3052.97,Inactive
+CUST-1689,Mr. David Wells Dds,hendersonbrenda@example.com,1970860717481131,2025-06-20,Dominican Republic,Enterprise,2112.1,Pending
+CUST-1963,Deborah Stewart,elizabethrobertson@example.com,2528102627,2023-09-22,Micronesia,Pro,1378.61,Active
+CUST-1635,Sherry Porter,jorgegonzalez@example.com,131547184090805,2021-09-24,Marshall Islands,Enterprise,4356.68,Inactive
+CUST-1113,Kristy Johnson,alexis39@example.org,001761242939685621,2022-03-18,Djibouti,Enterprise,88.72,Pending
+CUST-1494,Debra Jackson,brandywilson@example.com,9969718839,2026-08-09,Gibraltar,Pro,2178.07,Inactive
+CUST-1587,Joel Rivers,goodmanevelyn@example.com,676816481980770,2025-11-12,Saint Kitts and Nevis,Pro,1161.47,Inactive
+CUST-1987,David Jones,gjones@example.net,0012755358464051,2025-01-25,Mayotte,Basic,3590.42,Inactive
+CUST-1369,Angel Santiago,pfitzgerald@example.org,2095481813,2025-06-23,Macao,Enterprise,3972.97,Active
+CUST-1796,Paul Gibbs Md,rossjacob@example.net,7509405669,2024-07-26,Antarctica (the territory South of 60 deg S),Pro,1651.83,Active
+CUST-1895,Brandon Ramirez,diana28@example.net,2164599302,2021-11-25,Cote d'Ivoire,Pro,882.76,Inactive
+CUST-1915,Brett Newman,patriciagrant@example.net,162147648467357,2022-06-13,Cuba,Pro,3984.93,Active
+CUST-1147,Christine Parker,melissa12@example.net,69043521356804,2021-11-16,Iraq,Basic,586.59,Inactive
+CUST-1536,Mr. Richard Hall,sarasanchez@example.com,1992594455116682,2026-03-23,Turkey,Enterprise,981.79,Pending
+CUST-1976,Kathleen Moss,knewton@example.net,89164336299946,2026-08-01,Guam,Enterprise,3490.04,Inactive
+CUST-1712,Mark Webster,mcgrathderek@example.com,8876688687859,2024-05-04,Ireland,Enterprise,3378.98,Inactive
+CUST-1605,Jordan Norman,zpreston@example.net,70996003562439,2024-12-28,Cook Islands,Basic,4769.35,Pending
+CUST-1968,Richard Martinez,renee99@example.com,62596222190533,2025-09-09,Eritrea,Enterprise,1017.96,Active
+CUST-1431,Susan Walker,vhill@example.org,0017263764921,2025-04-17,Tokelau,Basic,4157.6,Pending
+CUST-1695,Anthony French,warrenjoseph@example.net,9429537337,2022-10-17,China,Pro,2447.04,Active
+CUST-1322,Kathleen Johnson,patrickshelton@example.org,69971187734778,2025-10-08,Mauritius,Enterprise,2238.1,Active
+CUST-1248,William Mason,garrettnatasha@example.org,15438256216,2022-12-04,Cape Verde,Pro,1734.68,Pending
+CUST-1067,Nathaniel Douglas,mathewaguilar@example.org,3468291486528,2024-04-07,Andorra,Enterprise,1189.07,Active
+CUST-1480,Dylan Fisher,kimberlyarnold@example.org,5716576605,2023-01-22,Palestinian Territory,Pro,3528.36,Inactive
+CUST-1467,Ana Harper,jacob30@example.org,2197909700514,2025-06-25,Indonesia,Enterprise,1681.75,Active
+CUST-1943,Pamela Snyder,gregorywhitehead@example.com,00134383872205422,2022-08-08,Philippines,Basic,3188.91,Inactive
+CUST-1972,Jerome Parker,xhall@example.net,3527478417,2024-08-16,Reunion,Enterprise,4872.42,Active
+CUST-1989,Jason Salinas,qsimpson@example.net,001790392288498745,2026-01-01,Dominica,Pro,2932.11,Pending
+CUST-1763,Lisa Stevens,kristin09@example.net,222610401648188,2024-11-06,Eritrea,Pro,258.23,Pending
+CUST-1055,Jessica Rodriguez,fjones@example.com,16219249985698,2024-04-01,Jersey,Pro,1235.29,Active
+CUST-1716,Willie Thomas,brian83@example.net,350976597595450,2025-07-07,Jersey,Pro,273.95,Active
+CUST-1091,Jason Harris,vsalas@example.net,7284385786,2024-01-08,Martinique,Enterprise,3326.26,Inactive
+CUST-1851,Jessica Keith,icollins@example.com,16168011241158,2026-09-09,Albania,Enterprise,4100.99,Active
+CUST-1318,Michelle Richardson,scottrosario@example.org,4669383615171,2025-07-14,Romania,Pro,4331.31,Active
+CUST-1443,Johnathan Miller,robertgentry@example.org,4436765456,2022-04-07,Kazakhstan,Enterprise,1146.67,Pending
+CUST-1314,Richard Jenkins,curtismoore@example.org,3893888167,2025-10-26,Uzbekistan,Basic,1682.53,Pending
+CUST-1554,Michael Robertson,morseronald@example.org,42092812371067,2022-06-03,Tunisia,Pro,2816.66,Pending
+CUST-1140,Carla Benton,gary24@example.net,3059648149,2023-12-31,Guyana,Pro,1560.69,Active
+CUST-1189,Elizabeth Molina,howardshaun@example.net,1283286384066658,2025-06-10,Cook Islands,Pro,2277.85,Active
+CUST-1792,Holly Waters,rgiles@example.com,29261821925967,2022-11-24,Nigeria,Basic,3074.22,Pending
+CUST-1726,William Parker,jason72@example.net,4014091217,2025-05-03,Finland,Basic,3582.28,Inactive
+CUST-1838,Ann Carpenter,gomezbradley@example.net,183247488356517,2023-03-10,Aruba,Enterprise,2149.43,Inactive
+CUST-1728,Mr. James Fletcher Md,lisamcgee@example.net,559920246175202,2026-07-05,United States of America,Enterprise,741.92,Pending
+CUST-1997,Alexandra Marshall,anthony17@example.org,3595007397,2025-06-27,Antigua and Barbuda,Enterprise,3251.38,Inactive
+CUST-1419,Austin Johnson,timothychambers@example.org,2048090138,2024-09-26,Senegal,Enterprise,540.16,Inactive
+CUST-1367,Autumn Torres,kevin70@example.org,2963044327,2024-06-17,Bangladesh,Pro,1905.46,Active
+CUST-1493,Misty Perez,leerachel@example.com,16007401041,2025-02-28,Somalia,Basic,3786.97,Active
+CUST-1464,Billy Carroll,lhernandez@example.com,00122844765704120,2024-03-28,Algeria,Basic,2187.79,Pending
+CUST-1344,Jeremy Zhang Md,uvasquez@example.org,5512342284,2024-05-09,Montserrat,Basic,4904.83,Active
+CUST-1011,Richard Gibson,uhorton@example.net,1972434309805009,2022-01-02,Malawi,Basic,509.09,Active
+CUST-1847,Kristi Foster,aedwards@example.net,122128945590670,2024-09-10,Pakistan,Pro,1209.98,Active
+CUST-1988,John Lewis,douglas63@example.com,5817444718,2025-09-11,Vanuatu,Basic,2272.88,Pending
+CUST-1874,Cody Miller,manningjeremy@example.com,7922300716,2021-09-29,Liberia,Pro,4787.25,Active
+CUST-1207,Autumn Olson,rachelryan@example.org,001368865086376599,2022-05-23,Lesotho,Enterprise,4000.8,Pending
+CUST-1490,David Jones,carolyn83@example.org,15495196655,2021-12-20,Lithuania,Basic,3386.15,Inactive
+CUST-1265,Susan Moore,sandra84@example.com,3182230768,2023-04-12,Aruba,Enterprise,4884.2,Pending
+CUST-1000,Allison Hill,donaldgarcia@example.net,12195600133,2025-04-21,Reunion,Enterprise,601.09,Pending
+CUST-1427,Ronald Clark,isabellawilliams@example.org,36462086567566,2023-02-18,Uzbekistan,Basic,3330.71,Pending
+CUST-1112,Mark Warner,porterryan@example.com,0012183033974,2025-02-22,Fiji,Enterprise,1547.46,Pending
+CUST-1407,Barbara Lewis,marcus06@example.net,606937314950136,2026-08-22,Bosnia and Herzegovina,Enterprise,1207.42,Active
+CUST-1424,Tara Miranda,schneidernicholas@example.net,00156836334141115,2024-08-02,Brunei Darussalam,Pro,2745.11,Pending
+CUST-1225,Denise Wallace,brittanybryant@example.net,179688845783174,2023-01-08,Gabon,Enterprise,3605.87,Active
+CUST-1613,Christina Robinson,lindathomas@example.net,4166491334,2023-05-14,Kyrgyz Republic,Basic,1793.88,Inactive
+CUST-1014,Elizabeth Riggs,contrerasangela@example.net,5247118244,2022-09-27,North Macedonia,Pro,2704.33,Inactive
+CUST-1326,Sheila Wilson,andrewnguyen@example.com,1769386407905696,2025-10-06,Bolivia,Enterprise,4006.6,Pending
+CUST-1720,Mr. Jordan Porter,lwilliams@example.com,7128833372188,2025-06-08,Italy,Pro,4135.29,Pending
+CUST-1886,Michelle Huber,ashleyroberts@example.net,0012535006776255,2022-07-11,Guernsey,Basic,2834.5,Active
+CUST-1008,Leah Smith,perezrebecca@example.com,9835473829,2025-08-24,Sri Lanka,Pro,2966.87,Active
+CUST-1849,Jeremy Medina Jr.,tpatton@example.com,6388906235,2026-02-07,Slovenia,Basic,4088.14,Pending
+CUST-1194,Bradley Davis,simsjason@example.net,001336213861207501,2022-08-12,El Salvador,Enterprise,448.86,Active
+CUST-1332,Kyle Camacho,qmosley@example.net,6629319818,2026-02-23,Dominica,Pro,2106.68,Inactive
+CUST-1015,Kathy King,davisrodney@example.com,2053242786,2022-02-05,Turks and Caicos Islands,Basic,2782.6,Pending
+CUST-1135,Paul Gillespie,fheath@example.org,6193656523,2022-12-18,Netherlands Antilles,Pro,3922.81,Inactive
+CUST-1556,Tammy Cortez,frankespinoza@example.com,5565227104,2025-03-12,Mauritania,Enterprise,4153.35,Pending
+CUST-1450,Angela Payne,kevin73@example.net,00182032368485571,2024-02-20,Malta,Enterprise,784.25,Active
+CUST-1596,Deborah Patel,joshua88@example.com,187162705877221,2022-03-12,Tokelau,Pro,1226.32,Active
+CUST-1174,Monica Dodson,No Email Provided,1203635421689421,2026-06-19,Korea,Pro,3075.81,Active
+CUST-1339,Keith Smith,dayala@example.net,51363344762639,2025-05-10,Comoros,Enterprise,1527.85,Pending
+CUST-1121,Jorge Stone,seanmyers@example.net,0013823507146,2025-11-17,Saint Lucia,Pro,268.23,Inactive
+CUST-1827,Micheal Cook,hesskeith@example.net,4747362130096,2024-05-19,Marshall Islands,Basic,4931.38,Inactive
+CUST-1066,Vickie Miller,benjaminzimmerman@example.com,789325546659051,2024-07-06,Hungary,Basic,1723.52,Pending
+CUST-1146,Robert Haynes,louis43@example.org,7298121277,2022-04-29,Guinea-Bissau,Pro,933.91,Inactive
+CUST-1348,Lisa Hamilton,gdavis@example.com,6324788147617,2026-08-24,Poland,Pro,4942.65,Pending
+CUST-1588,Heidi Moran,hpatterson@example.org,5499125652,2022-10-09,Bhutan,Basic,4203.92,Pending
+CUST-1293,Kimberly Robinson,joshualee@example.org,1977222005436459,2022-03-30,Austria,Pro,402.34,Active
+CUST-1622,Sharon Allen,bcopeland@example.com,7143448564,2021-10-14,Rwanda,Basic,1466.25,Active
+CUST-1395,Sarah Lee,yeseniagoodwin@example.net,12409445669,2024-12-29,Senegal,Basic,704.19,Pending
+CUST-1034,Benjamin Soto,hernandezlisa@example.com,8319869993,2026-04-07,French Southern Territories,Basic,1270.81,Pending
+CUST-1950,Mr. Steven Garcia Md,jose80@example.com,54270062987787,2024-04-29,Singapore,Basic,3711.29,Inactive
+CUST-1338,Theresa Wilkerson,andrewjohnson@example.net,169341734206969,2022-03-02,Heard Island and McDonald Islands,Pro,4111.72,Inactive
+CUST-1386,Brittany Parker,kelly08@example.net,1520938806533315,2025-03-13,Lao People's Democratic Republic,Basic,3054.97,Inactive
+CUST-1122,Eric Gibson,adrianabailey@example.org,4754140105123,2023-05-18,Japan,Basic,3203.71,Inactive
+CUST-1250,Michelle White,jessicacannon@example.com,547542312209949,2022-11-16,Anguilla,Basic,2607.3,Active
+CUST-1999,Kimberly Haney,wellsadam@example.com,83620234422521,2022-06-11,Cocos (Keeling) Islands,Pro,1148.91,Pending
+CUST-1951,Jasmine Morales,xcurry@example.net,4968234219,2025-10-07,Christmas Island,Pro,577.43,Active
+CUST-1909,Meghan Williams,klee@example.net,1708865237772966,2022-08-31,Lao People's Democratic Republic,Enterprise,4888.52,Active
+CUST-1052,Tiffany Holloway,batesdarlene@example.net,5055329318,2025-10-15,Djibouti,Enterprise,4769.82,Pending
+CUST-1553,Sara Hodges,saundersjohnathan@example.com,00195270599604387,2026-07-09,Dominica,Enterprise,3558.73,Active
+CUST-1196,Jessica Foster,wellsamanda@example.org,00126884245088210,2024-05-29,Yemen,Enterprise,1109.07,Inactive
+CUST-1452,Devon White,ashleyvargas@example.org,578684434481230,2021-12-01,Cameroon,Enterprise,3575.16,Inactive
+CUST-1415,Miranda Hicks,xreid@example.net,4666337050,2024-10-01,Western Sahara,Basic,1973.8,Inactive
+CUST-1661,Mario Lee,jeanettesimpson@example.net,3744907280,2026-08-05,Estonia,Enterprise,4640.26,Pending
+CUST-1900,Dustin Hines,kevin07@example.com,43499339650496,2022-09-02,Tanzania,Enterprise,290.15,Active
+CUST-1264,Bruce Patton,janet50@example.com,517335743842150,2023-12-10,Anguilla,Enterprise,2446.78,Pending
+CUST-1432,Cathy Hess,longlisa@example.net,91879813129208,2022-05-03,Brunei Darussalam,Basic,2952.6,Active
+CUST-1630,Jennifer Johnston,tfrancis@example.com,4653535851253,2026-08-18,Slovenia,Basic,2750.1,Inactive
+CUST-1178,Daniel Fitzpatrick Md,smithchristopher@example.org,0019726181143,2023-01-16,Australia,Basic,3297.49,Active
+CUST-1101,Kimberly Brown,No Email Provided,422865676618251,2024-05-14,Saint Lucia,Enterprise,455.82,Pending
+CUST-1223,Heidi Matthews,lgutierrez@example.org,3349132611,2024-06-18,Anguilla,Basic,2351.92,Inactive
+CUST-1411,John Mckay,No Email Provided,8129983381,2023-04-13,Saint Helena,Enterprise,1545.84,Inactive
+CUST-1143,Curtis Elliott,jodi37@example.com,0015737832060,2024-11-25,Puerto Rico,Pro,1788.17,Pending
+CUST-1566,Stephen Thompson,jordan74@example.org,55985587209628,2023-06-16,Sudan,Basic,853.12,Pending
+CUST-1084,Lisa Johnson,dawn47@example.org,1464771027677359,2026-01-11,Ghana,Basic,300.41,Pending
+CUST-1184,Ruth Richard,ann99@example.com,0017573113055488,2021-12-13,Chad,Enterprise,2679.1,Pending
+CUST-1502,Robert Bradley,mary88@example.org,001921214577584745,2025-11-11,Gabon,Basic,1932.03,Pending
+CUST-1024,Francisco Fernandez,edwardreyes@example.org,0018312665876036,2026-01-03,Serbia,Enterprise,897.14,Pending
+CUST-1425,Tiffany Ray,collinsbrittany@example.org,96575289931608,2022-06-12,Western Sahara,Pro,349.72,Inactive
+CUST-1133,Matthew Wright,elizabeth20@example.com,194326110371293,2021-10-05,Guam,Basic,4882.22,Active
+CUST-1785,Stacey Barber,mpowers@example.org,6082177602991,2023-09-16,Malta,Pro,1458.58,Pending
+CUST-1750,Angel Rogers,iblake@example.com,93688011923603,2024-05-25,Saint Vincent and the Grenadines,Pro,4785.59,Inactive
+CUST-1449,Juan Atkins,michael59@example.net,12535439611291,2022-09-08,Kiribati,Basic,4501.37,Inactive
+CUST-1021,Kevin Pena,rramos@example.org,272214895134332,2022-12-12,Lebanon,Pro,855.14,Inactive
+CUST-1604,Justin Rodriguez,laurenmathis@example.org,0014797316477,2022-02-01,Oman,Enterprise,473.79,Inactive
+CUST-1097,Charles Morris,adamreyes@example.com,001445849904530174,2025-02-25,Uzbekistan,Basic,4264.15,Active
+CUST-1195,Laura Perez,rickey76@example.com,606618091901581,2024-10-03,Finland,Basic,1946.02,Active
+CUST-1745,Sheila Nguyen,hgray@example.net,8732236533774,2022-12-25,Jersey,Enterprise,1059.26,Pending
+CUST-1579,Timothy Hill,joshuapowers@example.net,72434063062447,2022-10-30,Andorra,Enterprise,4674.75,Pending
+CUST-1904,Kathryn Flynn,umatthews@example.com,00185335365974669,2023-11-17,United Kingdom,Pro,349.23,Pending
+CUST-1377,Pamela Medina,ryanpatricia@example.net,5159695620175,2021-10-08,Samoa,Enterprise,1530.81,Inactive
+CUST-1772,Joseph Cooper,williskatherine@example.com,5229399821,2023-02-05,Guadeloupe,Basic,2095.84,Pending
+CUST-1721,Elizabeth Sanchez,qfry@example.org,001550966626705514,2026-02-13,Liechtenstein,Enterprise,3074.66,Active
+CUST-1185,Rodney Newton Md,cheryl31@example.com,9739516091,2025-01-06,Zimbabwe,Enterprise,1620.62,Inactive
+CUST-1807,Jonathan Jefferson Dvm,rodneynolan@example.com,00154642025825431,2025-04-05,Sri Lanka,Basic,2302.14,Pending
+CUST-1863,Bradley Phillips,patrick14@example.org,00143854531980746,2023-04-19,Ireland,Pro,4577.97,Pending
+CUST-1855,John Singh,meganjones@example.org,9279489791,2026-03-25,Indonesia,Enterprise,4562.31,Pending
+CUST-1682,Nicholas Hernandez,sandersnicholas@example.org,66726209014473,2025-01-29,Tunisia,Enterprise,2690.72,Pending
+CUST-1134,Virginia Henderson,timperez@example.org,00121145542622189,2023-12-04,Saint Helena,Pro,172.69,Pending
+CUST-1258,Christine Lopez,delgadobenjamin@example.org,1499945101622499,2025-06-21,Guyana,Enterprise,1751.6,Pending
+CUST-1273,Kelly Gentry,samantha65@example.org,0012092862405,2025-03-29,Swaziland,Pro,2373.51,Inactive
+CUST-1486,Mr. Joshua Moore,sara39@example.org,12087823513,2022-06-01,Belize,Pro,829.18,Inactive
+CUST-1691,Kimberly Ramsey,brenda87@example.org,9429049561213,2022-12-20,Iceland,Enterprise,1483.87,Inactive
+CUST-1270,Randy Munoz,williamsullivan@example.net,8585148769,2024-10-29,Mexico,Basic,2789.13,Pending
+CUST-1116,Ashley Davis,carlsonkristen@example.com,4468618398,2022-07-27,Ethiopia,Enterprise,2788.46,Inactive
+CUST-1701,Keith Medina,jonathanjones@example.org,88650134778948,2023-01-19,Japan,Pro,1277.2,Active
+CUST-1896,Destiny Klein,jefferyanderson@example.net,8757213530281,2026-02-26,Ireland,Basic,742.79,Pending
+CUST-1160,Matthew Greene,collinclark@example.net,71781467741862,2023-07-27,Kiribati,Enterprise,680.07,Inactive
+CUST-1891,Christopher Reeves,whiteryan@example.org,9922158189,2025-02-26,Mongolia,Enterprise,4175.15,Inactive
+CUST-1758,Joseph Davis,martin22@example.org,773923182971681,2022-07-18,Falkland Islands (Malvinas),Enterprise,2470.57,Inactive
+CUST-1404,Joel Miller,jenniferkim@example.com,3222091241862,2025-02-09,Cape Verde,Pro,1874.5,Pending
+CUST-1944,Robert Garza,mhorn@example.org,00190873344470488,2021-10-12,Kyrgyz Republic,Pro,1179.29,Pending
+CUST-1422,Karen Barrett,navarrokelly@example.org,0014289980271487,2026-07-01,Liberia,Pro,2251.24,Active
+CUST-1154,Joseph Smith,lindsaypeterson@example.org,700629218515691,2023-05-03,Cayman Islands,Enterprise,3369.61,Inactive
+CUST-1912,Michael Holmes,uthompson@example.org,14294735259533,2022-06-23,Puerto Rico,Basic,4594.34,Pending
+CUST-1523,Richard Gonzalez,vfleming@example.org,14703662668,2023-11-30,Ukraine,Pro,2346.57,Pending
+CUST-1228,Brian Gibson,nnelson@example.com,6506208021,2022-05-07,Kazakhstan,Pro,4710.28,Active
+CUST-1032,Joseph Coleman,michael74@example.com,6313351823374,2025-11-20,French Polynesia,Basic,3294.42,Inactive
+CUST-1760,Amy Mccoy,ballvanessa@example.com,91864442182998,2024-03-06,United States Minor Outlying Islands,Pro,1474.56,Pending
+CUST-1800,Kelly Huber,alexis57@example.net,94340349189117,2021-12-15,Mali,Basic,1344.69,Inactive
+CUST-1356,Heather Kennedy,christycampbell@example.net,8729232971,2023-03-29,Cote d'Ivoire,Pro,3135.13,Inactive
+CUST-1765,Molly Boyd,rickey20@example.org,825486314417064,2023-06-30,Sao Tome and Principe,Enterprise,1319.4,Inactive
+CUST-1606,Laura Gomez,jacobhernandez@example.com,3107890285,2026-01-28,Vanuatu,Enterprise,3942.74,Pending
+CUST-1100,Ann Dixon,chavezwilliam@example.com,0015083740640,2021-12-12,Guatemala,Basic,2915.65,Active
+CUST-1018,Sean Rasmussen,michael86@example.net,13508142940,2023-06-14,Solomon Islands,Basic,3323.25,Inactive
+CUST-1597,Mark Ryan,jamesrodriguez@example.org,5484458714,2023-05-05,Congo,Basic,1230.28,Pending
+CUST-1663,Paul Brown,snyderraven@example.org,16617701595919,2023-12-23,Samoa,Basic,650.74,Active
+CUST-1711,Robert Mason,longgary@example.com,9234959473,2025-04-10,Rwanda,Basic,1442.71,Pending
+CUST-1043,Roberta Hughes,tylerjohnson@example.net,0018514718702,2022-02-04,Slovenia,Basic,3417.4,Active
+CUST-1581,Matthew Duncan,welchanna@example.com,2384544577,2024-11-05,Chad,Basic,3827.43,Inactive
+CUST-1389,Christopher Mcclure,matthewspencer@example.org,7025410261,2023-04-01,Dominican Republic,Enterprise,3420.23,Active
+CUST-1748,Kelli Collins,ksmith@example.org,9442389982,2022-06-20,Angola,Enterprise,1076.34,Inactive
+CUST-1791,Michael Powell,zyoung@example.net,001420350682122355,2026-09-07,Philippines,Pro,2860.52,Active
+CUST-1598,Rachel Phelps,markblack@example.com,179694347452455,2023-04-06,Mongolia,Enterprise,2312.71,Active
+CUST-1382,Robert Mcconnell,john73@example.com,9583319971,2022-02-24,Bahamas,Pro,158.6,Pending
+CUST-1256,Krystal Keller,fernandothomas@example.net,5642474212,2024-11-01,El Salvador,Enterprise,1254.36,Pending
+CUST-1252,Jessica Williamson,michelle36@example.com,001909965699988081,2025-11-09,Armenia,Pro,2798.12,Active
+CUST-1454,William Garrett,hollowayjeffrey@example.com,5409891649,2022-10-29,Ethiopia,Enterprise,3046.86,Active
+CUST-1254,Stephanie Ford,gdavis@example.org,4989266570,2024-09-03,Rwanda,Pro,2268.46,Active
+CUST-1692,Renee Whitehead,lwilliams@example.org,997737112229907,2025-09-11,Jersey,Pro,1262.15,Pending
+CUST-1089,Erin Austin,phillipjensen@example.com,0012587887947,2023-05-19,Bouvet Island (Bouvetoya),Pro,4636.26,Inactive
+CUST-1529,Kelly Martin,pmcdonald@example.org,8442138459,2024-10-19,Guyana,Pro,2977.53,Inactive
+CUST-1221,George Ward,maurice61@example.com,1893699824558771,2024-01-16,Zimbabwe,Enterprise,804.29,Active
+CUST-1267,Tyler Castro,clarkmichael@example.com,2244932149587,2021-11-12,United Kingdom,Basic,1516.42,Inactive
+CUST-1107,Nicole Rocha,randyallen@example.com,001746578544587717,2023-07-30,Isle of Man,Basic,2318.51,Pending
+CUST-1065,Andrew Wood,chase19@example.net,267998079359782,2022-03-29,United Arab Emirates,Pro,648.97,Active
+CUST-1202,John Brown,jim38@example.com,47780051844989,2024-12-28,Haiti,Pro,3779.7,Inactive
+CUST-1980,Kevin Evans,sara14@example.org,772886811230388,2025-12-19,Brazil,Basic,2981.52,Pending
+CUST-1669,Emily Gilmore,nchristensen@example.com,5876794176,2025-04-13,Haiti,Enterprise,2419.39,Inactive
+CUST-1541,Juan Romero,anthonyorr@example.net,18309705349,2024-04-29,Switzerland,Pro,4955.38,Pending
+CUST-1839,Tammy Miles,mary66@example.net,4493604784,2023-12-11,Cape Verde,Basic,1275.18,Inactive
+CUST-1488,Emily Bauer,chamilton@example.com,13459919663955,2022-07-23,Antigua and Barbuda,Enterprise,470.54,Active
+CUST-1038,Laura Sampson,barbara27@example.net,137442967175655,2023-05-16,Puerto Rico,Enterprise,2492.9,Active
+CUST-1303,Lori Carter,thomasfisher@example.net,190493103856955,2024-01-05,Montenegro,Pro,448.19,Active
+CUST-1983,Sarah Rollins,dennis55@example.org,3602908581,2023-02-20,Bahamas,Enterprise,1087.76,Inactive
+CUST-1528,Matthew Patel,anthony50@example.net,001654993059660186,2023-11-04,Saint Helena,Pro,2238.93,Inactive
+CUST-1924,Kristine Bryant Dvm,No Email Provided,9688764486,2023-03-18,Kiribati,Enterprise,3932.66,Pending
+CUST-1835,Robert Jones,tshannon@example.net,9217758839,2023-11-29,Algeria,Pro,2667.77,Pending
+CUST-1030,Samuel Rivas,ramirezshannon@example.com,0015967507527,2025-09-17,Guam,Pro,1375.32,Active
+CUST-1186,Tracey Smith,tranryan@example.net,88259221699586,2023-02-02,Guam,Enterprise,4084.28,Pending
+CUST-1762,Kendra Sullivan,youngedward@example.com,235850542960807,2022-10-05,Isle of Man,Pro,4775.31,Active
+CUST-1929,Sara Lyons,dustinwilliams@example.com,362297398894132,2026-09-17,Senegal,Enterprise,2839.37,Active
+CUST-1354,Misty Mcconnell,dhall@example.net,3699581467,2024-01-11,Oman,Enterprise,4851.29,Active
+CUST-1527,Marie Chavez,No Email Provided,8969410496706,2021-12-11,Costa Rica,Pro,797.24,Active
+CUST-1412,Jeff Obrien,justin73@example.com,91526627768962,2025-07-14,Japan,Basic,741.9,Active
+CUST-1507,Daniel Kennedy,john66@example.com,4445942965,2022-12-21,Israel,Pro,2888.33,Pending
+CUST-1155,Jessica Fowler,lbanks@example.net,14954392644,2025-05-14,Yemen,Pro,396.37,Pending
+CUST-1657,Douglas Meyer,burnsrebecca@example.org,123444765047158,2026-01-31,Vanuatu,Pro,4986.45,Pending
+CUST-1376,Emily Fleming,cynthia74@example.org,1455837950209700,2024-07-02,Qatar,Basic,2236.56,Inactive
+CUST-1543,Megan Jones,patricia06@example.org,0015856380032963,2024-01-27,Libyan Arab Jamahiriya,Pro,4593.79,Inactive
+CUST-1282,Frances Adams,scottbreanna@example.com,001339338525800106,2025-02-24,Guernsey,Basic,3889.68,Inactive
+CUST-1810,Kenneth Johnson,christinedixon@example.net,00147638316082717,2024-01-04,Cuba,Basic,3821.21,Pending
+CUST-1634,William Ayala,maryjohnson@example.com,00141531169666725,2023-04-12,Christmas Island,Pro,1790.16,Active
+CUST-1755,Christopher Cameron,wrodriguez@example.org,7129616324,2022-07-05,Nepal,Basic,1431.08,Inactive
+CUST-1291,Jacob Martin,sarawilliams@example.org,189692071002194,2025-08-03,Costa Rica,Pro,1491.73,Active
+CUST-1764,Maria Kelley,pjimenez@example.net,3634816432,2025-03-16,Niger,Basic,1764.5,Inactive
+CUST-1519,Brenda Jones,egarrett@example.net,7282411730,2022-11-04,Wallis and Futuna,Basic,1219.53,Active
+CUST-1290,Kurt Gilbert,brockronald@example.net,1365619825309251,2022-06-06,Israel,Pro,2279.99,Pending
+CUST-1188,Mr. Michael Butler,natalie60@example.net,6066200342,2022-06-15,Bahamas,Pro,4491.18,Pending
+CUST-1456,Stephen Roth,chadjones@example.org,2612820916601,2022-05-20,Sierra Leone,Enterprise,4394.65,Pending
+CUST-1177,Jason Garcia,cindy26@example.org,891641173934835,2022-07-11,Mexico,Pro,2497.17,Active
+CUST-1477,Natalie Doyle,alexis72@example.com,816448072791033,2024-09-22,Cuba,Enterprise,3087.19,Pending
+CUST-1070,Joseph Burch,laurietaylor@example.com,4756818141,2023-12-20,Malaysia,Pro,400.74,Active
+CUST-1843,Diana Turner,josejensen@example.com,403644096617718,2024-09-11,Montserrat,Basic,1070.1,Active
+CUST-1911,Cassandra Anderson,jacob73@example.org,509343913681720,2022-09-17,Nigeria,Pro,4040.53,Active
+CUST-1729,Christopher Johnson,welchjennifer@example.net,8505178332584,2023-11-24,Zambia,Pro,854.39,Pending
+CUST-1501,Ethan Jones,martingibson@example.org,1276950241209579,2026-02-02,Latvia,Pro,3747.72,Active
+CUST-1955,Krista Smith,angela26@example.net,4999007686,2025-07-03,Venezuela,Enterprise,2069.82,Active
+CUST-1643,Ryan Lopez,aking@example.net,0014607723111271,2022-07-23,Saint Vincent and the Grenadines,Basic,3903.65,Inactive
+CUST-1515,Nathan Morgan,joshuafarmer@example.com,71786792988425,2022-01-22,Antarctica (the territory South of 60 deg S),Enterprise,1730.59,Inactive
+CUST-1994,Maria Brown,tklein@example.org,182254870987264,2022-08-21,Holy See (Vatican City State),Basic,3856.32,Pending
+CUST-1747,Scott Franco,enelson@example.org,7206376388214,2025-03-04,Faroe Islands,Enterprise,358.29,Active
+CUST-1512,Anthony Martinez,lwebb@example.org,14494791620,2025-10-25,Palestinian Territory,Basic,2211.72,Active
+CUST-1819,Luis Johnson,jenniferstanley@example.net,001273439304936653,2023-12-31,Turkey,Enterprise,2255.14,Active
+CUST-1949,Courtney Foley,fuenteschristopher@example.org,4218548158,2024-06-09,Mauritania,Basic,1931.0,Pending
+CUST-1305,Rebecca Martin,williamsleslie@example.org,4456238055257,2022-04-30,Anguilla,Pro,178.03,Active
+CUST-1916,Dr. Brenda Martin,walterskaren@example.com,4257892225606,2022-10-11,Palau,Pro,4798.52,Inactive
+CUST-1495,Karen Davis,jennifer58@example.org,1731517030376371,2025-10-17,Senegal,Enterprise,3408.51,Inactive
+CUST-1390,Jaime Jackson,ejohns@example.org,8235386559,2026-04-30,Serbia,Enterprise,530.96,Pending
+CUST-1993,Matthew Cole,adrianchang@example.org,6077941932,2026-09-18,Dominican Republic,Enterprise,3208.99,Active
+CUST-1649,John Wright,jmendoza@example.com,17532242642,2023-11-18,French Southern Territories,Pro,3265.33,Active
+CUST-1329,Megan Kelley,burtonzachary@example.org,0012735748969,2023-07-18,Cameroon,Basic,2334.17,Active
+CUST-1168,Ronald Davis,hughesfrank@example.net,001233533468007229,2022-12-26,Sri Lanka,Pro,3978.99,Pending
+CUST-1848,Renee Evans,harold46@example.com,1648796676056420,2023-11-03,Haiti,Basic,743.67,Inactive
+CUST-1277,Shannon Christensen,No Email Provided,7372189490,2024-01-25,Malaysia,Pro,416.71,Pending
+CUST-1518,Angelica Johnson,harrislisa@example.org,9697815287339,2023-07-04,United Arab Emirates,Pro,1787.94,Pending
+CUST-1489,Dawn Ortiz,raymond12@example.com,725531355251050,2024-01-19,South Africa,Basic,829.18,Pending
+CUST-1873,Tammy Norton,adam10@example.com,19013195092,2026-08-18,Palestinian Territory,Pro,1084.0,Inactive
+CUST-1086,Emily Hines,dferrell@example.com,67091687339500,2024-09-16,Tajikistan,Basic,2061.75,Inactive
+CUST-1319,Nathan Miller,No Email Provided,14472386463175,2026-09-19,Liechtenstein,Enterprise,4353.37,Inactive
+CUST-1421,Nicole Wright,qmontgomery@example.com,363705050573976,2023-11-11,Venezuela,Basic,3466.89,Active
+CUST-1505,Rebecca Reed,montesvictor@example.net,9726849824,2022-01-17,French Polynesia,Basic,2209.29,Inactive
+CUST-1243,Bianca Taylor,tonypearson@example.org,13983331465,2025-01-30,Jamaica,Basic,1430.69,Inactive
+CUST-1245,Ronnie Roberts,heather14@example.com,40523833884879,2023-08-10,United Kingdom,Enterprise,3357.53,Inactive
+CUST-1575,Raymond Turner,judy19@example.com,757658512686120,2022-09-17,Suriname,Pro,2539.39,Inactive
+CUST-1180,James Rivers,mary76@example.net,9124021697,2024-10-11,Slovakia (Slovak Republic),Basic,4030.34,Pending
+CUST-1558,Diana Baker,martinezalexa@example.net,001365499949732033,2022-06-09,Lebanon,Enterprise,3368.76,Pending
+CUST-1506,Andrew Campbell,brownkevin@example.com,4005425488214,2023-11-19,Uruguay,Basic,4317.44,Pending
+CUST-1617,Sean Wagner,gwilkins@example.org,2307358929,2024-06-02,Puerto Rico,Basic,3594.42,Inactive
+CUST-1357,Yvonne Howard,michael22@example.net,5159619318,2023-01-05,Guam,Enterprise,447.56,Inactive
+CUST-1216,Paul Conrad,victorgonzalez@example.net,3433333952,2026-04-29,Philippines,Pro,4182.81,Inactive
+CUST-1078,Jose Brady,stephaniethomas@example.net,1770721355690927,2023-12-11,Belarus,Basic,350.03,Pending
+CUST-1998,Carolyn Davis,amberjames@example.org,00188731672210454,2026-09-19,Bouvet Island (Bouvetoya),Pro,574.43,Active
+CUST-1092,Hector Ingram,chelsea33@example.com,17436443757,2023-02-28,Montserrat,Basic,989.99,Active
+CUST-1499,Lawrence Stone,No Email Provided,3106094318,2022-11-08,Niger,Basic,3848.38,Inactive
+CUST-1413,Olivia Dorsey,angelathompson@example.com,5474468971527,2026-04-21,Albania,Pro,4979.84,Active
+CUST-1749,Michael Spencer,aaron32@example.org,00184694493699951,2024-11-05,Tuvalu,Enterprise,2417.94,Inactive
+CUST-1932,Jenna Rivera,courtney70@example.net,819593145843456,2022-02-22,Czech Republic,Basic,3773.66,Pending
+CUST-1272,Eric Sullivan,jenningscandace@example.com,970513290227846,2022-10-01,Turkey,Basic,4369.96,Pending
+CUST-1903,Joseph Walker,stacy03@example.org,9588760545,2026-04-21,Mongolia,Basic,1132.66,Inactive
+CUST-1797,Carol Yoder,kimberlycooper@example.com,6424867963259,2024-11-30,North Macedonia,Basic,1340.89,Active
+CUST-1546,Tyler Guerrero,heidi27@example.com,16637044836085,2023-10-12,Sudan,Enterprise,1706.51,Inactive
+CUST-1333,Patricia Edwards,vshaffer@example.org,732312347649078,2023-04-22,Jamaica,Pro,1256.47,Pending
+CUST-1781,Derek Bowers,wberry@example.com,171330876123859,2022-12-25,Congo,Basic,4986.0,Inactive
+CUST-1163,Andrea Hughes,rarnold@example.net,3093986162299,2024-07-15,Bolivia,Enterprise,1539.7,Pending
+CUST-1864,Leah Collier,johnsonjames@example.org,2622054596715,2023-11-26,Ukraine,Pro,4840.54,Pending
+CUST-1466,Lisa Jones,pwoods@example.net,76220563411159,2022-12-02,Central African Republic,Enterprise,346.91,Pending
+CUST-1540,Morgan Hays,russellramirez@example.net,315542144773244,2025-01-20,Cambodia,Basic,243.75,Pending
+CUST-1053,Charles Lester,ramireztracey@example.org,17422102053,2022-08-05,Austria,Basic,3014.78,Inactive
+CUST-1537,Christopher Barnes,inewton@example.org,602312886652683,2023-05-29,Sweden,Pro,2531.77,Active
+CUST-1312,Sabrina Brooks,No Email Provided,8577252045,2021-12-19,French Guiana,Basic,2376.55,Inactive
+CUST-1366,William Colon Jr.,toddellis@example.net,381737702851961,2024-07-31,Armenia,Pro,3990.91,Inactive
+CUST-1746,Antonio Small,goodmanalice@example.org,714624426078197,2024-12-11,Korea,Enterprise,4606.58,Pending
+CUST-1539,Nathan Ramirez,halltrevor@example.org,0017884986456,2026-06-29,Armenia,Enterprise,467.43,Pending
+CUST-1497,Tiffany Ray,thomasnancy@example.net,9307724078,2023-01-19,Vanuatu,Basic,2006.55,Pending
+CUST-1790,Cynthia Simmons,nancyryan@example.org,828856053970798,2025-02-15,British Indian Ocean Territory (Chagos Archipelago),Basic,119.72,Inactive
+CUST-1428,Scott Long,marcusmoody@example.org,0015472292774233,2023-07-14,Togo,Enterprise,3005.87,Active
+CUST-1214,Kristin Gordon,stacey84@example.net,0019472697357,2024-02-18,Eritrea,Pro,1720.63,Inactive
+CUST-1437,Courtney Lynn,thompsonjessica@example.com,0013712859484,2022-07-29,Yemen,Basic,123.56,Active
+CUST-1347,James Holland,davidhenry@example.com,00164982515837767,2022-03-04,Jamaica,Enterprise,4571.48,Inactive
+CUST-1958,Kelsey Nguyen,sullivanpaula@example.com,31046592088143,2024-01-22,Kenya,Pro,111.09,Inactive
+CUST-1633,David Lindsey,ithomas@example.net,0013508905911,2025-05-17,Saint Martin,Enterprise,2159.27,Pending
+CUST-1365,Sandra Miller,colemandavid@example.org,8159869886497,2025-03-02,Yemen,Pro,4521.95,Active
+CUST-1304,Richard Jackson,jeremy54@example.org,4544729284,2025-12-02,Puerto Rico,Pro,3685.94,Pending
+CUST-1479,Kurt Daniels,qmitchell@example.net,1364991111096179,2024-03-28,Sri Lanka,Enterprise,1373.87,Active
+CUST-1074,Angela Villegas,ashleyamy@example.net,17063706540,2023-06-12,Saint Martin,Pro,992.53,Active
+CUST-1259,Anna Evans,priscilla16@example.net,5475214586,2024-10-13,Botswana,Enterprise,1687.42,Pending
+CUST-1629,Allison Walker Dds,johnperez@example.net,8205430977,2023-10-14,Thailand,Pro,440.69,Pending
+CUST-1115,James Bowers,jodistewart@example.org,4048754121,2023-12-20,Moldova,Basic,1359.11,Active
+CUST-1565,Mark Smith,kristinarobinson@example.com,4137432406424,2023-10-17,Syrian Arab Republic,Enterprise,698.69,Inactive
+CUST-1117,Johnny Brown,thill@example.com,3544379937,2023-03-31,Yemen,Pro,3043.91,Pending
+CUST-1380,Melissa Patel Md,bsmith@example.net,1205666418775803,2026-04-25,Martinique,Basic,1224.17,Pending
+CUST-1600,Daniel Shaw,daniel32@example.com,00137927067349960,2024-12-02,Falkland Islands (Malvinas),Enterprise,2601.11,Active
+CUST-1268,Ashley Brown,tmyers@example.net,0019794545381,2022-03-09,Spain,Basic,1546.22,Pending
+CUST-1888,Scott Jones,duncandawn@example.com,1305830886843021,2023-09-08,Cyprus,Enterprise,4677.05,Pending
+CUST-1719,Steven Jensen,melissa49@example.net,15555829849,2025-10-18,Jordan,Enterprise,2279.25,Pending
+CUST-1599,Jason Gill,abrown@example.com,182774033445056,2024-07-06,Saint Vincent and the Grenadines,Pro,3003.86,Active
+CUST-1820,Elizabeth Meyer,kathycampbell@example.org,7404868250,2022-06-22,France,Pro,703.12,Inactive
+CUST-1045,Amber Flynn,michael62@example.org,569922219693792,2024-11-29,Kuwait,Enterprise,1733.87,Inactive
+CUST-1420,John Sherman,rrogers@example.com,235366905510762,2026-01-25,Fiji,Enterprise,2070.17,Inactive
+CUST-1628,Brandon Harper,jphelps@example.net,285562614991537,2024-06-18,Papua New Guinea,Pro,4015.68,Pending
+CUST-1562,Mitchell Ruiz,ehenry@example.net,128190509222161,2024-11-28,Bahamas,Basic,431.97,Active
+CUST-1651,Daniel Lee,stacydaniel@example.net,9786654362718,2026-03-31,Zimbabwe,Pro,2612.84,Pending
+CUST-1877,Jennifer Cohen,mcdonaldkenneth@example.net,8742835268064,2025-06-13,Kiribati,Basic,3493.35,Pending
+CUST-1869,George Edwards,murraystephen@example.net,4276469211,2022-03-07,Rwanda,Basic,1378.88,Pending
+CUST-1961,Nancy Tanner,wallacecourtney@example.org,001296969417996708,2023-04-04,Pitcairn Islands,Enterprise,2629.47,Pending
+CUST-1907,Ricky Moore,tvelasquez@example.com,33097963731008,2026-06-04,Swaziland,Enterprise,2780.64,Active
+CUST-1920,Heather Lopez,zlara@example.org,3424620197,2025-05-14,Benin,Basic,512.83,Inactive
+CUST-1323,Tiffany Johnson,hbeard@example.com,8564770028427,2023-04-14,Iceland,Basic,1371.93,Active
+CUST-1316,Albert Washington,gwilliams@example.org,1589507140140119,2022-08-24,Guernsey,Enterprise,231.65,Active
+CUST-1358,Patricia Carrillo,paula89@example.net,2073711991,2022-07-23,British Indian Ocean Territory (Chagos Archipelago),Enterprise,4303.74,Inactive
+CUST-1266,Linda Miller,gsmall@example.net,001340694353344857,2022-06-20,Falkland Islands (Malvinas),Enterprise,1450.84,Active
+CUST-1262,Pamela Wilson,matthew99@example.org,4359577027,2026-03-08,Mauritania,Pro,641.8,Pending
+CUST-1375,Jamie Bell,brendadixon@example.org,6898141612,2022-10-11,Madagascar,Pro,3404.17,Active
+CUST-1885,Anthony Stuart,schneiderraymond@example.com,15019867740,2024-03-24,Puerto Rico,Basic,1884.99,Inactive
+CUST-1990,Pamela Medina,ftaylor@example.org,5436068811640,2026-06-17,Nauru,Enterprise,4621.3,Pending
+CUST-1442,Mark Long,sarah80@example.com,17704509754510,2023-09-25,Algeria,Enterprise,2988.65,Inactive
+CUST-1327,Christine Crawford,garrett45@example.com,8715834404,2024-11-05,Bermuda,Basic,1588.21,Active
+CUST-1231,Stephen Boyer,teresayoung@example.com,702349163009792,2022-12-19,Luxembourg,Enterprise,3022.04,Active
+CUST-1866,Raymond Wolf,mbarnes@example.com,18269899962,2025-08-25,Marshall Islands,Pro,1056.52,Pending
+CUST-1576,Shelby Graham,hcampbell@example.com,4506954654084,2023-07-05,Andorra,Basic,4093.61,Pending
+CUST-1219,Grace White,sclark@example.com,8648729293143,2022-09-14,South Georgia and the South Sandwich Islands,Enterprise,249.28,Active
+CUST-1937,John Jones,santiagoronald@example.com,4076627995530,2024-12-06,Cote d'Ivoire,Basic,3962.97,Pending
+CUST-1368,Jennifer Berry,ymccullough@example.com,89282877725199,2022-11-20,Indonesia,Basic,2679.27,Pending
+CUST-1741,Brandon Duffy,rodriguezthomas@example.com,4683142983152,2024-11-16,Andorra,Pro,781.49,Pending
+CUST-1883,Hector Paul,No Email Provided,3642934039,2023-02-09,Brunei Darussalam,Basic,4023.94,Pending
+CUST-1941,Cody Berry,bauercory@example.org,8012878035,2025-01-26,Uganda,Enterprise,3856.58,Pending
+CUST-1901,Chad Macias,No Email Provided,2629585421,2026-06-21,Nepal,Pro,730.58,Pending
+CUST-1447,Corey Thomas,jensenchristopher@example.org,66834335670860,2023-01-25,Fiji,Pro,2160.05,Active
+CUST-1274,Ashley Campbell,youngjacqueline@example.com,185676668327238,2025-12-03,Cape Verde,Pro,962.6,Active
+CUST-1426,Daniel Frazier,carolynthomas@example.net,0016098548149737,2022-01-06,Sudan,Basic,4842.62,Inactive
+CUST-1609,Jennifer Mathews,michael41@example.com,124341670450232,2024-04-25,Burundi,Pro,3749.22,Inactive
+CUST-1805,Tracy Burnett,bduke@example.org,3005245393,2022-05-18,Turkey,Pro,1869.34,Active
+CUST-1522,Patrick Noble,rpotts@example.net,6105783567,2021-10-30,Azerbaijan,Basic,926.87,Pending
+CUST-1410,Theresa Stevenson,dennis50@example.net,740435533803396,2023-12-08,Albania,Enterprise,362.92,Inactive
+CUST-1041,Michael Perry,pbaird@example.com,18267398214,2026-05-24,Madagascar,Pro,1939.02,Inactive
+CUST-1665,Charles Christensen,iherring@example.com,82695062292310,2022-06-21,Guadeloupe,Basic,1836.44,Pending
+CUST-1778,James Crane,dylancunningham@example.com,4845993231,2023-03-12,Cambodia,Basic,3278.88,Active
+CUST-1438,Catherine Shaffer,iwoods@example.com,7825226940,2025-02-11,Italy,Enterprise,1652.67,Active
+CUST-1206,Nathaniel Cooper,ecarlson@example.org,96221038862912,2026-02-10,Martinique,Basic,1974.84,Pending
+CUST-1779,Jessica Elliott,russellholly@example.net,52671760723483,2025-01-27,Netherlands,Enterprise,3706.5,Active
+CUST-1434,Yesenia Obrien,haileybates@example.org,5037243298,2023-02-09,Saint Lucia,Basic,1422.51,Active
+CUST-1550,Bradley Jones,vsmith@example.net,16216963945680,2024-01-07,Bolivia,Basic,2934.56,Active
+CUST-1979,Kevin White,alexanderbrandy@example.net,19913248839,2024-01-13,Vanuatu,Pro,613.74,Pending
+CUST-1984,Elizabeth Espinoza,richardbullock@example.net,573566271358969,2023-06-28,South Georgia and the South Sandwich Islands,Enterprise,392.34,Inactive
+CUST-1439,Catherine Andersen,No Email Provided,234314651113129,2025-06-10,Micronesia,Pro,309.38,Pending
+CUST-1019,Larry Dixon,mlam@example.com,7607883561,2025-01-15,British Virgin Islands,Basic,4283.82,Active
+CUST-1136,Lisa Maxwell,No Email Provided,9898836403,2022-04-14,Luxembourg,Enterprise,4327.12,Active
+CUST-1923,Janet Parker,mckayemily@example.net,175293120219150,2025-10-05,Faroe Islands,Basic,2524.3,Inactive
+CUST-1076,Robert Kennedy,No Email Provided,001705641566765277,2025-09-23,Saint Lucia,Pro,2361.77,Pending
+CUST-1298,Jodi Allen,steelerichard@example.org,9542310742,2026-08-09,Kyrgyz Republic,Basic,403.48,Active
+CUST-1918,Brittany Beasley,robinsonpaul@example.com,1208746397561547,2023-04-25,Montenegro,Basic,1534.87,Active
+CUST-1025,Karen Bender,karen68@example.net,00148993734670656,2026-04-28,Nigeria,Basic,858.84,Inactive
+CUST-1626,Robert Kirk,No Email Provided,4548116597,2022-09-25,Togo,Pro,4869.93,Inactive
+CUST-1751,Michael Daugherty,ohiggins@example.net,3356104096,2024-08-12,Tuvalu,Enterprise,1744.52,Inactive
+CUST-1857,Gary Reid,hughesvirginia@example.org,388824935340018,2023-12-04,Madagascar,Basic,4862.84,Pending
+CUST-1809,Juan Cooper,katiepowell@example.net,7726257754,2024-02-21,Hong Kong,Pro,3798.89,Pending
+CUST-1199,David Walker,xhill@example.org,1457577547812914,2023-01-14,Turks and Caicos Islands,Pro,4528.95,Pending
+CUST-1967,Jaime Watts,hallsamantha@example.com,7294906745686,2023-03-24,Argentina,Enterprise,3143.92,Pending
+CUST-1210,Sarah Hopkins,No Email Provided,8382658902,2025-09-29,Swaziland,Enterprise,2843.74,Active
+CUST-1042,Aaron Barber,cgrimes@example.net,85528867533963,2023-04-25,Lebanon,Enterprise,1294.5,Pending
+CUST-1853,Dennis Martin,ujones@example.org,8037843753,2025-03-16,Saint Lucia,Enterprise,1144.16,Inactive
+CUST-1876,Tyler Miranda,fhuff@example.net,00128247348131045,2023-06-25,Monaco,Basic,3747.05,Inactive
+CUST-1948,Mary Finley,reynoldscharles@example.net,2982085133138,2023-02-01,Martinique,Enterprise,413.86,Inactive
+CUST-1110,Jesus Brown,bhopkins@example.org,12868008484,2025-10-02,United States of America,Basic,4402.39,Inactive
+CUST-1051,Theresa Barnes,nicolepena@example.com,17642053773515,2023-09-18,Comoros,Basic,1900.87,Active
+CUST-1475,Jenny King,christopherjones@example.com,3478683420,2023-06-07,Sao Tome and Principe,Basic,3824.9,Pending
+CUST-1085,Shannon Hester,kathleenrobertson@example.org,537414732104696,2025-10-16,Vietnam,Basic,4846.53,Active
+CUST-1440,Rhonda Smith,urhodes@example.org,57828160930685,2024-10-04,Chile,Pro,2654.12,Pending
+CUST-1908,Christopher Frederick,richardsonana@example.org,19456235426,2023-01-21,Pitcairn Islands,Basic,2670.62,Inactive
+CUST-1652,Loretta Williams,matthewwu@example.net,88652703692492,2022-06-23,Ghana,Basic,1345.79,Inactive
+CUST-1170,William Davidson,jose43@example.org,230596520744666,2023-06-09,Rwanda,Enterprise,3336.08,Pending
+CUST-1684,Jacqueline Arnold,malikfowler@example.com,8967575427,2026-07-13,Benin,Basic,897.44,Pending
+CUST-1986,Dylan Long,No Email Provided,57267028966605,2022-08-10,Belize,Pro,1248.0,Pending
+CUST-1786,Deborah Waller,jameshall@example.org,352335617817032,2024-09-26,Afghanistan,Enterprise,2645.38,Active
+CUST-1242,Tricia Mullins Dds,walkerkeith@example.com,6253179086,2023-09-19,Jordan,Enterprise,1378.56,Active
+CUST-1771,Nathaniel Perry,khanerin@example.com,6953201491189,2024-06-02,Czech Republic,Basic,3207.83,Active
+CUST-1678,Brian Fitzpatrick,No Email Provided,63924570394380,2022-10-21,Cocos (Keeling) Islands,Basic,1762.81,Pending
+CUST-1072,Melissa Taylor,awest@example.org,6435289861,2023-03-25,Australia,Enterprise,704.94,Pending
+CUST-1275,Shane Martinez,jonesalfred@example.net,86291267969278,2023-08-24,Czech Republic,Pro,4708.26,Inactive
+CUST-1620,Gregory Perez,donald61@example.net,00139293724501848,2022-11-19,Kazakhstan,Pro,2601.15,Pending
+CUST-1211,Timothy Graham,bakernathan@example.net,9669984902,2021-10-10,Thailand,Basic,3231.61,Active
+CUST-1203,Stephanie Miller,nicholas38@example.com,6575790827231,2022-06-22,Cayman Islands,Enterprise,3750.2,Pending
+CUST-1363,Glen Reid,johnsonlaura@example.net,2343681054851,2023-12-19,Montserrat,Basic,3813.83,Pending
+CUST-1474,Jesse Gardner,nthomas@example.com,0012095605673,2026-01-23,Zambia,Pro,4234.6,Inactive
+CUST-1708,Susan Davis,michael45@example.com,52233989830650,2025-04-04,Cayman Islands,Basic,495.74,Inactive
+CUST-1674,Christian Mills,christopherward@example.com,316551768086628,2023-12-19,Brazil,Enterprise,2959.54,Active
+CUST-1187,Jodi Anderson,vmorrison@example.net,78538333945228,2025-07-11,Monaco,Pro,4161.32,Pending
+CUST-1130,Kayla Mccullough,taylorkaren@example.com,9424232536,2024-08-10,Ethiopia,Enterprise,1285.17,Active
+CUST-1672,Jillian Reyes Md,gblake@example.com,2437974292501,2024-06-26,Heard Island and McDonald Islands,Basic,2277.37,Pending
+CUST-1946,Shawn Figueroa,lhall@example.com,37542259206165,2025-10-08,Burkina Faso,Enterprise,3320.33,Active
+CUST-1111,Thomas Warren,jamesfox@example.com,3618567933410,2023-08-14,Micronesia,Pro,830.85,Pending
+CUST-1028,Julie Scott,gary91@example.org,61930496631931,2025-09-14,Mongolia,Pro,4222.12,Active
